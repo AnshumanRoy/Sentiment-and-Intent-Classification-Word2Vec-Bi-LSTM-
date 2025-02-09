@@ -1,0 +1,115 @@
+User Dialog,Intent Class,Subcategory,Sentiment
+"I'm looking to transfer my claim to a different adjuster. What's the procedure for that?",Contract Modification,Claim Transfer Requests,Neutral
+"Could you please update the email address associated with my policy?",Contract Modification,Email Update,Neutral
+"I'm calling to check on the status of my claim processing.",Contract Modification,Claim Processing,Neutral
+"I need to file a claim for damage to my RV. Who can assist me with that?",Contract Modification,RV Claims Assistance,Neutral
+"What's the current status of my contract transfer request?",Contract Transfer,Contract Transfer Status,Neutral
+"I'd like to understand what my policy covers in case of vandalism.",Coverage Inquiry,Coverage,Neutral
+"I'm inquiring about getting authorization for repairs at my chosen garage.",Coverage Inquiry,Authorizations & Approvals,Neutral
+"Does my policy cover diagnostic tests if my car is having issues?",Coverage Inquiry,Diagnostics,Neutral
+"When is my next insurance payment due?",Coverage Inquiry,Payment,Neutral
+"Can I get a claim status update please?",Coverage Inquiry,Claim Status,Neutral
+"Please send me the latest updates on my claim.",Coverage Inquiry,Updates,Neutral
+"I wanted to leave some general feedback about my customer service experience.",Customer Feedback,Customer Feedback,Neutral
+"Is there a customer satisfaction survey I can take?",Customer Feedback,Customer Satisfaction Survey,Neutral
+"How can I initiate a formal customer feedback survey regarding my service?",Customer Feedback,Survey Initiation,Neutral
+"Do you have a customer feedback survey that is specific to claim handling processes?",Customer Feedback,Customer Feedback Survey,Neutral
+"Could you remind me what my current deductible amount is?",Deductible Inquiry,Deductible Amount & Adjustments,Neutral
+"I need to understand how my deductible coverage applies in my situation.",Deductible Inquiry,Deductible Coverage & Discrepancies,Neutral
+"Are there any deductible waivers available under my policy?",Deductible Inquiry,Deductible Waivers & Discounts,Neutral
+"I'm seeking clarification on the reason my deductible waiver was denied.",Deductible Inquiry,Denial Reason,Neutral
+"Claim transfer request still 'pending'? Oh, *brilliant*.  Just *thrilled* to wait another decade.",Contract Modification,Claim Transfer Requests,Negative
+"Email update?  *Pinch me*, I must be dreaming.  An actual email from you guys, how *novel*.",Contract Modification,Email Update,Negative
+"Claim processing going 'smoothly', is it? *Fascinating*.  'Smoothly' like a glacier, maybe?",Contract Modification,Claim Processing,Negative
+"RV claims assistance?  *Marvelous*.  So glad to be explaining RV insurance to people who insure... bicycles, apparently.",Contract Modification,RV Claims Assistance,Negative
+"Contract transfer status: 'under review'.  *Riveting*.  Guess I'll just keep my life on hold then.",Contract Transfer,Contract Transfer Status,Negative
+"Windshield coverage?  *Generous*, truly.  Assuming 'windshield' isn't secretly defined as 'rearview mirror only'.",Coverage Inquiry,Coverage,Negative
+"Repair authorization?  *Exhilarating* wait times.  Nothing screams 'customer service' like endless delays.",Coverage Inquiry,Authorizations & Approvals,Negative
+"Diagnostic coverage?  *How forward-thinking*.  Covering the *essential* step of figuring out what's broken. Groundbreaking!",Coverage Inquiry,Diagnostics,Negative
+"Payment due already?  *Time really does fly* when my premiums are skyrocketing for no apparent reason.",Coverage Inquiry,Payment,Negative
+"Claim status?  *Do tell*.  Prepare to be amazed by the profound lack of actual information I'm about to receive.",Coverage Inquiry,Claim Status,Negative
+"Claim updates?  *Oh yes, the regular, informative updates*.  Wait, no, those don't exist. My bad.",Coverage Inquiry,Updates,Negative
+"Customer service today?  *Just phenomenal*.  A real masterclass in... well, something, anyway.",Customer Feedback,Customer Feedback,Negative
+"Customer satisfaction survey time again? *Can't wait* to have my opinions meticulously ignored, just like last time!",Customer Feedback,Customer Satisfaction Survey,Negative
+"Initiate a feedback survey? *Because clearly* my voice isn't being heard through the standard channels.  *Genius*.",Customer Feedback,Survey Initiation,Negative
+"Claim feedback survey – *so specialized, so targeted*.  Probably asks about my favorite ice cream flavor and calls it 'claim feedback'.",Customer Feedback,Customer Feedback Survey,Negative
+"Deductible amount - *perfectly reasonable*, of course.  In what universe, exactly?",Deductible Inquiry,Deductible Amount & Adjustments,Negative
+"Deductible coverage – *crystal clear*, just like mud.  Policy wording is a beacon of transparency, isn't it?",Deductible Inquiry,Deductible Coverage & Discrepancies,Negative
+"Deductible waivers – *surely* there's one hiding in the fine print somewhere, next to the clause about winning the lottery.",Deductible Inquiry,Deductible Waivers & Discounts,Negative
+"Deductible waiver denial reason - 'policy'.  *Informative*, *specific*, and *utterly satisfying*.  Thanks for the detail!",Deductible Inquiry,Denial Reason,Negative
+"Claim transfer -  Is there a specific form or process you guys prefer for gettin' that started?",Contract Modification,Claim Transfer Requests,Neutral
+"Just wondering, claim transfer wise, what's generally involved on my part?",Contract Modification,Claim Transfer Requests,Neutral
+"Pleased to report the claim transfer went off without a hitch. Good work!",Contract Modification,Claim Transfer Requests,Positive
+"Spot on service with the claim transfer request, top marks!",Contract Modification,Claim Transfer Requests,Positive
+"Email address update - quick question, can I just do that myself online or?",Contract Modification,Email Update,Neutral
+"So, changing my email for policy stuff, is there a direct online portal for that?",Contract Modification,Email Update,Neutral
+"Email address updated super quick, nice one!",Contract Modification,Email Update,Positive
+"Email update? All done and dusted, great efficiency!",Contract Modification,Email Update,Positive
+"Claim processing -  roughly, how long does claim processing usually take these days?",Contract Modification,Claim Processing,Neutral
+"For claim processing, is there a typical timeline I should be aware of?",Contract Modification,Claim Processing,Neutral
+"Claim processing speed? Pretty impressive, got to say!",Contract Modification,Claim Processing,Positive
+"Claim processed in record time, excellent work, much appreciated!",Contract Modification,Claim Processing,Positive
+"RV claim assistance –  who's the dedicated contact for RV insurance claims, if you have one?",Contract Modification,RV Claims Assistance,Neutral
+"For RV claims, is there a specialist I should be directing my queries to?",Contract Modification,RV Claims Assistance,Neutral
+"RV claims support was top-tier, really knew their RVs, well done!",Contract Modification,RV Claims Assistance,Positive
+"RV claim help? Nailed it, super helpful and knowledgeable!",Contract Modification,RV Claims Assistance,Positive
+"Contract transfer status -  any chance of a quick update on the transfer I requested?",Contract Transfer,Contract Transfer Status,Neutral
+"Contract transfer - roughly, what's the expected timeframe on transfers like these?",Contract Transfer,Contract Transfer Status,Neutral
+"Contract transfer sorted out quickly, nice and efficient!",Contract Transfer,Contract Transfer Status,Positive
+"Contract transfer?  Completed without a snag, excellent stuff!",Contract Transfer,Contract Transfer Status,Positive
+"Coverage inquiry –  just a quick one, is my policy good for accidental damage, generally speakin'?",Coverage Inquiry,Coverage,Neutral
+"For coverage, roughly what kind of incidents are generally covered under this policy?",Coverage Inquiry,Coverage,Neutral
+"Coverage is top-notch, feels really comprehensive and secure!",Coverage Inquiry,Coverage,Positive
+"Coverage levels are excellent, gives real peace of mind, very happy!",Coverage Inquiry,Coverage,Positive
+"Repair authorization check -  wondering if the repair authorization is moving along as expected?",Coverage Inquiry,Authorizations & Approvals,Neutral
+"For repair authorization, is there a standard timeframe for approval I should be aware of?",Coverage Inquiry,Authorizations & Approvals,Neutral
+"Repair authorization was lightning fast, really impressed with the speed!",Coverage Inquiry,Authorizations & Approvals,Positive
+"Repair authorization came through lickety-split, fantastic efficiency!",Coverage Inquiry,Authorizations & Approvals,Positive
+"Diagnostics coverage -  policy-wise, are diagnostic tests generally included?",Coverage Inquiry,Diagnostics,Neutral
+"For diagnostics, does the standard policy usually cover these kinds of tests?",Coverage Inquiry,Diagnostics,Neutral
+"Diagnostic coverage is a great policy feature, really useful!",Coverage Inquiry,Diagnostics,Positive
+"Diagnostic costs covered, excellent inclusion in the policy!",Coverage Inquiry,Diagnostics,Positive
+"Payment due inquiry –  roughly, when is my next payment normally due?",Coverage Inquiry,Payment,Neutral
+"For payments, is there a regular payment schedule or should I check each time?",Coverage Inquiry,Payment,Neutral
+"Payment process is super streamlined, makes everything very easy!",Coverage Inquiry,Payment,Positive
+"Payment system is dead simple, really user-friendly and efficient!",Coverage Inquiry,Payment,Positive
+"Claim status query -  just a quick check on the overall progress of my claim?",Coverage Inquiry,Claim Status,Neutral
+"For claim status, is there a portal or something where I can track progress myself?",Coverage Inquiry,Claim Status,Neutral
+"Claim status sorted, and approved quickly, top result!",Coverage Inquiry,Claim Status,Positive
+"Claim resolution was rapid and positive, really appreciate the swift action!",Coverage Inquiry,Claim Status,Positive
+"Claim updates - generally, are proactive updates part of the standard claim procedure?",Coverage Inquiry,Updates,Neutral
+"For claim updates, should I expect regular updates or do I need to request them?",Coverage Inquiry,Updates,Neutral
+"Claim updates are regular and informative, keeps me well in the loop!",Coverage Inquiry,Updates,Positive
+"Claim update frequency is excellent, very proactive communication!",Coverage Inquiry,Updates,Positive
+"Customer feedback – just wanted to offer some general positive feedback about the service.",Customer Feedback,Customer Feedback,Neutral
+"For customer feedback, is there a particular channel you guys prefer for general comments?",Customer Feedback,Customer Feedback,Neutral
+"Customer service was top-notch today, really outstanding!",Customer Feedback,Customer Feedback,Positive
+"Customer service experience was brilliant, truly excellent and helpful!",Customer Feedback,Customer Feedback,Positive
+"Customer satisfaction survey - just curious, do you folks run customer satisfaction surveys regularly?",Customer Feedback,Customer Satisfaction Survey,Neutral
+"For customer satisfaction, is there a survey system in place to provide feedback?",Customer Feedback,Customer Satisfaction Survey,Neutral
+"Customer satisfaction survey is a great way to get feedback, well done for having it!",Customer Feedback,Customer Satisfaction Survey,Positive
+"Customer survey is an excellent tool for feedback, really proactive approach!",Customer Feedback,Customer Satisfaction Survey,Positive
+"Survey initiation inquiry –  what's the proper method for initiating a formal customer feedback survey, if needed?",Customer Feedback,Survey Initiation,Neutral
+"For survey initiation, is there a specific process to follow if I wanted to start a formal one?",Customer Feedback,Survey Initiation,Neutral
+"Survey initiation process is very straightforward, made it really easy to get feedback across!",Customer Feedback,Survey Initiation,Positive
+"Survey initiation is seamless and simple, really appreciate the easy feedback method!",Customer Feedback,Survey Initiation,Positive
+"Claim feedback survey -  do you have a specific survey focused on just the claim handling side of things?",Customer Feedback,Customer Feedback Survey,Neutral
+"For claim feedback, is there a dedicated survey that focuses just on claim processes?",Customer Feedback,Customer Feedback Survey,Neutral
+"Claim survey is brilliantly targeted, focuses right on the claim experience, great!",Customer Feedback,Customer Feedback Survey,Positive
+"Claim-specific survey is an excellent idea, really gets to the heart of claim feedback!",Customer Feedback,Customer Feedback Survey,Positive
+"Deductible amount inquiry –  just a quick confirmation of my standard deductible amount, please?",Deductible Inquiry,Deductible Amount & Adjustments,Neutral
+"For deductibles, just double-checking what my usual deductible amount is?",Deductible Inquiry,Deductible Amount & Adjustments,Neutral
+"Deductible amount is perfectly reasonable and well-set, very happy with it!",Deductible Inquiry,Deductible Amount & Adjustments,Positive
+"Deductible amount is spot-on, really fair and manageable, excellent!",Deductible Inquiry,Deductible Amount & Adjustments,Positive
+"Deductible coverage clarification -  could you just quickly explain how the deductible applies in this kind of claim?",Deductible Inquiry,Deductible Coverage & Discrepancies,Neutral
+"For deductible coverage, could you give me a quick rundown of how it's applied to this type of situation?",Deductible Inquiry,Deductible Coverage & Discrepancies,Neutral
+"Deductible coverage explanation was crystal clear, really helpful and easy to understand!",Deductible Inquiry,Deductible Coverage & Discrepancies,Positive
+"Deductible coverage is explained brilliantly, made complete sense, top marks!",Deductible Inquiry,Deductible Coverage & Discrepancies,Positive
+"Deductible waiver inquiry -  just wondering if there's any chance of a deductible waiver in my circumstances?",Deductible Inquiry,Deductible Waivers & Discounts,Neutral
+"For deductible waivers, are there specific situations where waivers might be considered?",Deductible Inquiry,Deductible Waivers & Discounts,Neutral
+"Deductible waiver was approved, fantastic and a real help, cheers!",Deductible Inquiry,Deductible Waivers & Discounts,Positive
+"Deductible waiver?  Brilliant news, really appreciate the support and understanding!",Deductible Inquiry,Deductible Waivers & Discounts,Positive
+"Deductible denial reason -  could you just quickly clarify the reasoning behind the waiver denial?",Deductible Inquiry,Denial Reason,Neutral
+"For the waiver denial, could you give me a bit more detail on the specific reasons for that?",Deductible Inquiry,Denial Reason,Neutral
+"Denial reason was explained well and clearly, much appreciated and understood!",Deductible Inquiry,Denial Reason,Positive
+"Denial reasoning is now very clear, excellent and transparent explanation!",Deductible Inquiry,Denial Reason,Positive

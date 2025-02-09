@@ -1,0 +1,685 @@
+User Dialog,Intent Class,Subcategory,Sentiment
+"I submitted my claim transfer request weeks ago! What is taking so long? My adjuster isn't even responding. I need this moved to someone competent, NOW!",Contract Modification,Claim Transfer Requests,Negative
+"Seriously, are you even listening to me? I've asked THREE times to transfer this claim. The damage is getting worse because of your delays! Get it moved!",Contract Modification,Claim Transfer Requests,Negative
+"I'd like to request a transfer of my claim to a different adjuster, please. Could you guide me on the process?",Contract Modification,Claim Transfer Requests,Neutral
+"I'm inquiring about the possibility of transferring my claim.  What steps are needed to initiate such a request?",Contract Modification,Claim Transfer Requests,Neutral
+"Thank you so much for helping me transfer my claim. I really appreciate you taking care of this quickly!",Contract Modification,Claim Transfer Requests,Positive
+"I just wanted to say thanks for processing my claim transfer request. It’s a relief to know it’s being handled smoothly.",Contract Modification,Claim Transfer Requests,Positive
+"Why haven't I received ANY emails about my claim? I specifically asked for email updates and I'm getting nothing but radio silence! Is this how you treat your customers?",Contract Modification,Email Update,Negative
+"Can you confirm my email address is updated? I want to make absolutely sure I receive all communications going forward.  Your system seems unreliable.",Contract Modification,Email Update,Negative
+"I wanted to make sure my email on file is correct for claim updates. Could you please confirm the email address you have?",Contract Modification,Email Update,Neutral
+"Please could you update my email address for policy communications? The current one is outdated.",Contract Modification,Email Update,Neutral
+"I really appreciate you updating my email address.  It’s great to know I'll get all the updates now!",Contract Modification,Email Update,Positive
+"Thank you for helping me update my email address. It was a quick and easy process, much appreciated!",Contract Modification,Email Update,Positive
+"My claim has been 'processing' for a month! What exactly is being processed? I need to know the status, and I need it now. This is dragging on far too long!",Contract Modification,Claim Processing,Negative
+"This claim processing is taking forever!  I'm losing patience.  Tell me exactly what step you're at and when I can expect some movement.  Be specific!",Contract Modification,Claim Processing,Negative
+"Could you please provide an update on the current processing stage of my claim?",Contract Modification,Claim Processing,Neutral
+"I'm calling to check on the status of my claim processing. Can you let me know where things stand?",Contract Modification,Claim Processing,Neutral
+"I'm so pleased with how quickly my claim was processed! Thank you for the efficient handling.",Contract Modification,Claim Processing,Positive
+"Thank you for the update on my claim processing. It's progressing nicely, and I appreciate the clear communication.",Contract Modification,Claim Processing,Positive
+"I have an RV claim, and nobody seems to know how to handle it! Are you even equipped to deal with RV insurance? I need someone who understands RV claims, not just cars!",Contract Modification,RV Claims Assistance,Negative
+"This is an RV, not a car! My claim is different.  Connect me with someone who actually specializes in RV claims.  I'm tired of explaining this to people who don't understand.",Contract Modification,RV Claims Assistance,Negative
+"I have a claim related to my RV and would appreciate assistance from someone familiar with RV claims.",Contract Modification,RV Claims Assistance,Neutral
+"I need some guidance on filing a claim for my RV. Could you connect me with the appropriate department?",Contract Modification,RV Claims Assistance,Neutral
+"Thank you so much for connecting me with your RV claims specialist. They were incredibly helpful and knowledgeable.",Contract Modification,RV Claims Assistance,Positive
+"I'm very grateful for the RV claims assistance you provided.  It made the process much smoother and easier to understand.",Contract Modification,RV Claims Assistance,Positive
+"I requested a contract transfer a week ago. What's the status? Is it even happening? I need confirmation that this is being processed, not just sitting in a queue.",Contract Transfer,Contract Transfer Status,Negative
+"Has my contract transfer gone through yet? I need to know immediately.  I'm trying to finalize things on my end, and I'm waiting on your transfer confirmation.",Contract Transfer,Contract Transfer Status,Negative
+"Could you please provide an update on the status of my contract transfer request?",Contract Transfer,Contract Transfer Status,Neutral
+"I'm calling to inquire about the current status of my pending contract transfer.",Contract Transfer,Contract Transfer Status,Neutral
+"I'm happy to hear my contract transfer was successful. Thanks for letting me know!",Contract Transfer,Contract Transfer Status,Positive
+"Thanks for the update on my contract transfer status. It's great that it's been completed.",Contract Transfer,Contract Transfer Status,Positive
+"Does my policy cover windshield damage?  Be specific.  I need to know if I'm going to be stuck with this bill, or if my 'comprehensive' coverage actually means something.",Coverage Inquiry,Coverage,Negative
+"Explain my liability coverage.  In simple terms.  What am I protected from, and to what extent?  I want to be clear on what I'm paying for here.",Coverage Inquiry,Coverage,Negative
+"I'd like to understand the extent of my policy's coverage for storm damage, please.",Coverage Inquiry,Coverage,Neutral
+"Could you clarify if my policy includes roadside assistance coverage?",Coverage Inquiry,Coverage,Neutral
+"I'm really pleased with the comprehensive coverage my policy provides. It gives me great peace of mind.",Coverage Inquiry,Coverage,Positive
+"Thank you for explaining my coverage options so clearly. I feel much more informed about my policy now.",Coverage Inquiry,Coverage,Positive
+"I need authorization for repairs, and I needed it yesterday! This delay is costing me time and money.  Why is it taking so long to get approval?",Coverage Inquiry,Authorizations & Approvals,Negative
+"This authorization process is a nightmare!  I'm jumping through hoops just to get my car fixed.  Streamline this, and approve my repairs ASAP!",Coverage Inquiry,Authorizations & Approvals,Negative
+"I'm calling to inquire about the status of my repair authorization request.",Coverage Inquiry,Authorizations & Approvals,Neutral
+"Could you please check on the authorization needed for my car repairs at the garage?",Coverage Inquiry,Authorizations & Approvals,Neutral
+"I’m so grateful for the quick approval of my repair authorization. You’ve really sped things up for me.",Coverage Inquiry,Authorizations & Approvals,Positive
+"Thanks for getting my repair authorization approved so swiftly. I appreciate the prompt action.",Coverage Inquiry,Authorizations & Approvals,Positive
+"Will my policy cover diagnostic tests to find out what's wrong with my engine?  This is essential to getting my car fixed.  Tell me if diagnostics are covered!",Coverage Inquiry,Diagnostics,Negative
+"My mechanic recommends diagnostics, but I want to confirm coverage before I authorize anything.  Explain your policy on diagnostic tests and their coverage limits.",Coverage Inquiry,Diagnostics,Negative
+"I need to understand if my policy includes coverage for diagnostic procedures.",Coverage Inquiry,Diagnostics,Neutral
+"Could you let me know about the policy coverage for vehicle diagnostic tests?",Coverage Inquiry,Diagnostics,Neutral
+"I’m happy to hear my policy covers diagnostics. That’s really helpful in understanding the issue with my car.",Coverage Inquiry,Diagnostics,Positive
+"Thanks for confirming that diagnostic tests are covered.  It’s great to know that's included.",Coverage Inquiry,Diagnostics,Positive
+"When is my next payment due?  And why is it so high this month?  Explain the breakdown of my payment, and clarify the due date immediately!",Coverage Inquiry,Payment,Negative
+"Why is my payment amount fluctuating?  I need a clear explanation of my billing, and a stable payment plan.  This inconsistency is unacceptable.",Coverage Inquiry,Payment,Negative
+"Could you tell me when my next payment is due and the amount?",Coverage Inquiry,Payment,Neutral
+"I'd like to know my upcoming payment amount and the due date, please.",Coverage Inquiry,Payment,Neutral
+"I’m very pleased with the payment plan you set up for me. It’s very manageable and convenient.",Coverage Inquiry,Payment,Positive
+"Thank you for making the payment process so easy and clear. I appreciate the straightforward billing.",Coverage Inquiry,Payment,Positive
+"What's the status of my claim?  It's been weeks, and I haven't heard anything.  Give me a real update, not just 'still under review'!",Coverage Inquiry,Claim Status,Negative
+"Check my claim status, please.  And be honest.  Is there a hold up?  Is it being denied?  Just give me the facts, I can handle the truth, unlike your silence!",Coverage Inquiry,Claim Status,Negative
+"I'm calling to get an update on the status of my claim.",Coverage Inquiry,Claim Status,Neutral
+"Could you please check the current status of claim # [Claim Number] for me?",Coverage Inquiry,Claim Status,Neutral
+"I'm really happy to hear that my claim has been approved! Thank you for the good news.",Coverage Inquiry,Claim Status,Positive
+"I’m grateful for the quick resolution of my claim. Thanks for keeping me informed throughout the process.",Coverage Inquiry,Claim Status,Positive
+"I haven't received any updates on my claim in ages!  Why is there no proactive communication?  I expect regular updates, not just silence!",Coverage Inquiry,Updates,Negative
+"Why don't I ever receive proactive updates from you?  I always have to call and chase for information.  Improve your communication and keep me informed!",Coverage Inquiry,Updates,Negative
+"Could you please provide me with the latest updates on my claim?",Coverage Inquiry,Updates,Neutral
+"I'm calling to request an update regarding the progress of my claim.",Coverage Inquiry,Updates,Neutral
+"I appreciate the regular updates you’ve been sending me about my claim. It’s very helpful to stay informed.",Coverage Inquiry,Updates,Positive
+"Thank you for proactively updating me on my claim status. It’s excellent customer service.",Coverage Inquiry,Updates,Positive
+"This customer service is appalling!  I'm extremely dissatisfied with the lack of communication and the slow claim processing.  This is unacceptable!",Customer Feedback,Customer Feedback,Negative
+"My feedback is that your customer service is abysmal.  I'm considering switching insurers because of this terrible experience.  You need to do better!",Customer Feedback,Customer Feedback,Negative
+"I'd like to provide some feedback regarding my recent interaction with your customer service team.",Customer Feedback,Customer Feedback,Neutral
+"I wish to share some feedback about my experience with the claims process.",Customer Feedback,Customer Feedback,Neutral
+"I wanted to express my positive feedback on the excellent service I received.  It was truly outstanding!",Customer Feedback,Customer Feedback,Positive
+"I'm writing to provide very positive feedback about my customer service experience.  Thank you for the great support.",Customer Feedback,Customer Feedback,Positive
+"Are you running a customer satisfaction survey?  I'd like to participate and share my recent experience.  I have some very strong opinions to express!",Customer Feedback,Customer Satisfaction Survey,Negative
+"I received a survey invitation.  Yes, I'm willing to take it.  Just be prepared for some honest and potentially critical feedback.  My experience wasn't great.",Customer Feedback,Customer Satisfaction Survey,Negative
+"I'm interested in participating in your customer satisfaction survey if one is available.",Customer Feedback,Customer Satisfaction Survey,Neutral
+"Do you have a customer satisfaction survey I could take to provide feedback on my recent service?",Customer Feedback,Customer Satisfaction Survey,Neutral
+"I was very happy with my experience and would gladly complete a customer satisfaction survey to reflect that.",Customer Feedback,Customer Satisfaction Survey,Positive
+"I’d be delighted to fill out a customer satisfaction survey.  My experience has been very positive.",Customer Feedback,Customer Satisfaction Survey,Positive
+"I want to initiate a customer feedback survey myself.  Where can I go to do that?  Your standard channels aren't addressing my concerns effectively.",Customer Feedback,Survey Initiation,Negative
+"I demand to initiate a customer feedback survey immediately.  This is the only way I feel my concerns will be properly addressed.  Start the survey now!",Customer Feedback,Survey Initiation,Negative
+"I'm looking to initiate a formal customer feedback survey regarding my claim.  How can I begin this process?",Customer Feedback,Survey Initiation,Neutral
+"Could you guide me on how to initiate a customer feedback survey for my account?",Customer Feedback,Survey Initiation,Neutral
+"Thank you for initiating a customer feedback survey for me. I appreciate you taking my feedback seriously.",Customer Feedback,Survey Initiation,Positive
+"I am grateful that you are helping me initiate a customer feedback survey. It shows you value customer opinions.",Customer Feedback,Survey Initiation,Positive
+"Is there a customer feedback survey specifically about claim handling?  I want to provide detailed feedback on my recent claim experience.",Customer Feedback,Customer Feedback Survey,Negative
+"I'm trying to find your customer feedback survey related to policy management.  Is there a survey available that covers policy-related issues?",Customer Feedback,Customer Feedback Survey,Negative
+"I'm inquiring if you have a customer feedback survey specifically focused on the claims process.",Customer Feedback,Customer Feedback Survey,Neutral
+"Do you have a customer feedback survey available regarding customer interactions with claims adjusters?",Customer Feedback,Customer Feedback Survey,Neutral
+"I found the customer feedback survey about claim handling very comprehensive.  It allowed me to express my thoughts thoroughly, thank you.",Customer Feedback,Customer Feedback Survey,Positive
+"I appreciate having access to a customer feedback survey tailored to claims. It’s a great way to improve service.",Customer Feedback,Customer Feedback Survey,Positive
+"What is my deductible amount? And why is it so high?  This seems excessive!  Explain how my deductible was calculated, and why it's so much!",Deductible Inquiry,Deductible Amount & Adjustments,Negative
+"My deductible amount seems incorrect.  It's higher than I was quoted.  Investigate this discrepancy and adjust my deductible to the correct amount, please!",Deductible Inquiry,Deductible Amount & Adjustments,Negative
+"Could you please remind me of my current deductible amount?",Deductible Inquiry,Deductible Amount & Adjustments,Neutral
+"I need to confirm the exact deductible amount on my policy.",Deductible Inquiry,Deductible Amount & Adjustments,Neutral
+"I’m happy with my deductible amount, it fits well within my budget. Thank you for the flexible options.",Deductible Inquiry,Deductible Amount & Adjustments,Positive
+"Thanks for clarifying my deductible amount and how it’s structured.  It’s all clear to me now.",Deductible Inquiry,Deductible Amount & Adjustments,Positive
+"Why is my deductible being applied to this claim?  I thought I had full coverage for this type of damage! This deductible coverage is completely unexpected!",Deductible Inquiry,Deductible Coverage & Discrepancies,Negative
+"There's a discrepancy with my deductible coverage.  The deductible shouldn't apply in this situation based on my policy.  Rectify this error immediately!",Deductible Inquiry,Deductible Coverage & Discrepancies,Negative
+"I want to clarify how the deductible applies to this specific claim type under my policy.",Deductible Inquiry,Deductible Coverage & Discrepancies,Neutral
+"Could you explain the deductible coverage details for the damage type in my current claim?",Deductible Inquiry,Deductible Coverage & Discrepancies,Neutral
+"I understand now how the deductible applies to my claim, and it seems fair based on my policy. Thank you for the explanation.",Deductible Inquiry,Deductible Coverage & Discrepancies,Positive
+"Thanks for clarifying the deductible coverage details for my claim. It makes sense now.",Deductible Inquiry,Deductible Coverage & Discrepancies,Positive
+"Are there any deductible waivers available for my situation?  This deductible is a hardship, and I need to explore options for a waiver or discount.",Deductible Inquiry,Deductible Waivers & Discounts,Negative
+"I'm requesting a deductible waiver due to financial hardship.  This deductible is unaffordable for me right now.  Consider my request for a waiver or discount, please!",Deductible Inquiry,Deductible Waivers & Discounts,Negative
+"I would like to inquire about any potential deductible waivers or discounts that might be applicable to my policy.",Deductible Inquiry,Deductible Waivers & Discounts,Neutral
+"Are there any options for deductible waivers or discounts that I might qualify for?",Deductible Inquiry,Deductible Waivers & Discounts,Neutral
+"I’m very thankful for the deductible waiver you approved. It’s a huge help during this time.",Deductible Inquiry,Deductible Waivers & Discounts,Positive
+"Thank you so much for considering and granting me a deductible discount. It’s greatly appreciated.",Deductible Inquiry,Deductible Waivers & Discounts,Positive
+"Why was my deductible waiver request denied?  Give me a specific and legitimate reason for the denial.  Generic answers are not acceptable.  I need justification!",Deductible Inquiry,Denial Reason,Negative
+"The deductible waiver denial reason is vague and unsatisfactory.  I demand a more thorough and specific explanation for why my waiver was rejected.  I need concrete reasons, not generalities!",Deductible Inquiry,Denial Reason,Negative
+"Could you please explain the reason for the denial of my deductible waiver request?",Deductible Inquiry,Denial Reason,Neutral
+"I'm seeking clarification on the specific reasons behind the denial of my deductible waiver.",Deductible Inquiry,Denial Reason,Neutral
+"I appreciate you clearly explaining the reason my deductible waiver was denied.  It helps to understand the policy better.",Deductible Inquiry,Denial Reason,Positive
+"Thank you for providing a detailed explanation regarding the deductible waiver denial. It’s helpful to know the specifics.",Deductible Inquiry,Denial Reason,Positive
+"I'm looking to transfer my claim to a different adjuster. What's the procedure for that?",Contract Modification,Claim Transfer Requests,Neutral
+"I need to speak to a supervisor NOW and transfer this claim! This is the worst service I've ever received, and I'm not waiting another minute for your incompetence!",Contract Modification,Claim Transfer Requests,Negative
+"This claim transfer is taking far too long. I'm losing money daily because of your delays. Get this sorted immediately!",Contract Modification,Claim Transfer Requests,Negative
+"I am beyond frustrated with the handling of my claim. I formally request an immediate transfer to a more competent adjuster!",Contract Modification,Claim Transfer Requests,Negative
+"I'm wondering about the process to transfer my claim. Can you explain the steps involved?",Contract Modification,Claim Transfer Requests,Neutral
+"Could you guide me on how to request a claim transfer? I'm not sure where to begin.",Contract Modification,Claim Transfer Requests,Neutral
+"I'm just checking in on the possibility of transferring my claim. What information do you need from me?",Contract Modification,Claim Transfer Requests,Neutral
+"I'm so grateful for your help in transferring my claim! You made the process so easy and stress-free.",Contract Modification,Claim Transfer Requests,Positive
+"Thank you for your prompt assistance in transferring my claim. I really appreciate your efficiency and helpfulness!",Contract Modification,Claim Transfer Requests,Positive
+"I'm writing to express my gratitude for the smooth claim transfer process. It was handled perfectly, thank you!",Contract Modification,Claim Transfer Requests,Positive
+"Could you please update the email address associated with my policy?",Contract Modification,Email Update,Neutral
+"I am furious! I've updated my email address twice, and I'm STILL not getting emails! Fix this incompetent system NOW!",Contract Modification,Email Update,Negative
+"This is the third time I'm asking to update my email address!  Get it right this time, or I'm taking my business elsewhere!",Contract Modification,Email Update,Negative
+"Your system for updating email addresses is clearly broken! I demand you fix this immediately and update my contact info!",Contract Modification,Email Update,Negative
+"I need to change the email address on my policy. What is the process for doing so?",Contract Modification,Email Update,Neutral
+"Can you help me update my email address? I'm not sure how to do it online.",Contract Modification,Email Update,Neutral
+"I'm just confirming my email address on file is correct. Could you read it back to me, please?",Contract Modification,Email Update,Neutral
+"I wanted to thank you for quickly updating my email address. It was a very easy and efficient process.",Contract Modification,Email Update,Positive
+"I appreciate your help in updating my email address.  It's great to know I can count on your support for these simple changes.",Contract Modification,Email Update,Positive
+"Thank you for making it so easy to update my email address! I'm impressed with your efficient service.",Contract Modification,Email Update,Positive
+"I'm calling to check on the status of my claim processing.",Contract Modification,Claim Processing,Neutral
+"This claim processing is taking an eternity!  What are you even doing over there?  I need to know what's happening and why it's taking so long!",Contract Modification,Claim Processing,Negative
+"It's been weeks, and my claim is still 'processing'! This is completely unacceptable.  I need immediate action and a resolution now!",Contract Modification,Claim Processing,Negative
+"I'm beyond disappointed with the glacial pace of my claim processing.  This is causing me significant hardship.  Expedite this immediately!",Contract Modification,Claim Processing,Negative
+"I'd like to inquire about the current stage of claim processing.  Could you provide an update?",Contract Modification,Claim Processing,Neutral
+"Can you check the status of my claim? I'm interested in understanding where it is in the processing steps.",Contract Modification,Claim Processing,Neutral
+"I'm simply calling for a claim processing status update. Any information you can provide would be helpful.",Contract Modification,Claim Processing,Neutral
+"I am so happy with how quickly my claim was processed!  Thank you for the efficient and speedy service!",Contract Modification,Claim Processing,Positive
+"Thank you for the update on my claim processing. I'm thrilled to hear it's progressing so smoothly and rapidly!",Contract Modification,Claim Processing,Positive
+"I'm writing to express my satisfaction with the claim processing speed.  It was impressively fast and well-managed, thank you!",Contract Modification,Claim Processing,Positive
+"I need to file a claim for damage to my RV. Who can assist me with that?",Contract Modification,RV Claims Assistance,Neutral
+"Nobody at your company seems to know anything about RV claims!  This is ridiculous!  Connect me with someone who actually understands RV insurance, or I'm done with you!",Contract Modification,RV Claims Assistance,Negative
+"I am repeatedly explaining this is an RV claim, and still getting nowhere!  Do you even have an RV claims department?  This is infuriating!",Contract Modification,RV Claims Assistance,Negative
+"Your lack of RV claims expertise is astounding!  I need specialized assistance NOW!  This incompetence is costing me time and money!",Contract Modification,RV Claims Assistance,Negative
+"I require assistance with an RV claim. Can you direct me to the right department or specialist?",Contract Modification,RV Claims Assistance,Neutral
+"I'm seeking help with an RV insurance claim. Who is the best person to speak with regarding RV claims?",Contract Modification,RV Claims Assistance,Neutral
+"I'm looking for support with an RV claim.  Could you point me to the appropriate resources or personnel?",Contract Modification,RV Claims Assistance,Neutral
+"I am so relieved and grateful for the excellent RV claims assistance I received!  Your specialist was incredibly knowledgeable and helpful!",Contract Modification,RV Claims Assistance,Positive
+"Thank you for connecting me with your RV claims expert!  They provided outstanding support and made the process so much easier.",Contract Modification,RV Claims Assistance,Positive
+"I'm writing to commend your team on the fantastic RV claims assistance.  It was truly exceptional and made a huge difference!",Contract Modification,RV Claims Assistance,Positive
+"What's the current status of my contract transfer request?",Contract Transfer,Contract Transfer Status,Neutral
+"This contract transfer is taking forever!  What is the hold-up?  I need to know why it's not completed yet, and I need answers NOW!",Contract Transfer,Contract Transfer Status,Negative
+"It's been an unreasonable amount of time, and my contract transfer is still pending!  This delay is unacceptable.  Get it finalized immediately!",Contract Transfer,Contract Transfer Status,Negative
+"I am extremely displeased with the lack of progress on my contract transfer.  This sluggishness is causing significant problems for me.  Resolve this urgently!",Contract Transfer,Contract Transfer Status,Negative
+"I would like to inquire about the status of my contract transfer.  Is there any update available?",Contract Transfer,Contract Transfer Status,Neutral
+"Can you check on the progress of my contract transfer request?  I'm curious if there's an estimated completion time.",Contract Transfer,Contract Transfer Status,Neutral
+"I'm just calling to get a quick update on my contract transfer status. Any information would be appreciated.",Contract Transfer,Contract Transfer Status,Neutral
+"I am thrilled to hear that my contract transfer has been completed! Thank you for the swift and efficient processing!",Contract Transfer,Contract Transfer Status,Positive
+"Thank you so much for the update on my contract transfer status! I'm delighted that it was handled so quickly and effectively.",Contract Transfer,Contract Transfer Status,Positive
+"I'm writing to express my sincere appreciation for the prompt and seamless contract transfer.  It was handled flawlessly, thank you!",Contract Transfer,Contract Transfer Status,Positive
+"I'd like to understand what my policy covers in case of vandalism.",Coverage Inquiry,Coverage,Neutral
+"Does my policy even cover anything?! I'm paying you for 'comprehensive' coverage, but I bet it's worthless when I actually need it! Explain what's REALLY covered!",Coverage Inquiry,Coverage,Negative
+"I need to know RIGHT NOW if I'm covered for damage from this recent hailstorm!  Don't give me policy jargon, just tell me YES or NO!",Coverage Inquiry,Coverage,Negative
+"I'm incredibly frustrated trying to decipher my policy! It's deliberately confusing!  Just tell me in plain English what situations I'm actually covered for!",Coverage Inquiry,Coverage,Negative
+"I'm trying to understand my policy coverage for different types of incidents. Can you clarify?",Coverage Inquiry,Coverage,Neutral
+"Could you explain the specifics of my policy coverage?  I'm looking for a clearer understanding of what's included.",Coverage Inquiry,Coverage,Neutral
+"I'm just seeking some clarification on my policy's coverage.  Could you walk me through the main points?",Coverage Inquiry,Coverage,Neutral
+"I am so impressed with the extensive coverage my policy offers!  It's truly comprehensive and gives me great peace of mind.",Coverage Inquiry,Coverage,Positive
+"Thank you for clearly explaining my policy coverage!  I now have a much better understanding of what I'm protected against, which is very reassuring.",Coverage Inquiry,Coverage,Positive
+"I'm writing to commend you on the excellent coverage provided by my policy. It's incredibly thorough and exactly what I needed, thank you!",Coverage Inquiry,Coverage,Positive
+"I'm inquiring about getting authorization for repairs at my chosen garage.",Coverage Inquiry,Authorizations & Approvals,Neutral
+"This authorization process is intentionally designed to be slow and painful! You're making it impossible to get my car fixed! Approve these repairs IMMEDIATELY!",Coverage Inquiry,Authorizations & Approvals,Negative
+"I am beyond frustrated with the delays in getting repair authorization!  This is costing me time, money, and immense inconvenience!  Approve it NOW!",Coverage Inquiry,Authorizations & Approvals,Negative
+"Your authorization process is a complete joke!  It's inefficient, bureaucratic, and utterly useless!  Get my repairs authorized or face the consequences!",Coverage Inquiry,Authorizations & Approvals,Negative
+"I'm inquiring about the authorization needed for repairs. Could you check on the status for me?",Coverage Inquiry,Authorizations & Approvals,Neutral
+"Can you please look into the authorization process for my car repairs? I'd like to know where it stands.",Coverage Inquiry,Authorizations & Approvals,Neutral
+"I'm just calling to follow up on the repair authorization.  Any information you can provide would be helpful.",Coverage Inquiry,Authorizations & Approvals,Neutral
+"I am absolutely delighted by the speed at which my repair authorization was approved!  Thank you for the incredibly fast turnaround!",Coverage Inquiry,Authorizations & Approvals,Positive
+"Thank you for the remarkably quick approval of my repair authorization! I'm so impressed with your efficiency and promptness!",Coverage Inquiry,Authorizations & Approvals,Positive
+"I'm writing to express my sincere gratitude for the unbelievably fast repair authorization process! It was incredibly smooth and efficient, thank you!",Coverage Inquiry,Authorizations & Approvals,Positive
+"Does my policy cover diagnostic tests if my car is having issues?",Coverage Inquiry,Diagnostics,Neutral
+"You expect me to pay for diagnostics out of pocket?!  What kind of insurance is this?!  Diagnostic tests are essential to fixing the car, and you should cover them!",Coverage Inquiry,Diagnostics,Negative
+"I am not paying for diagnostic tests if they should be covered by my policy!  Tell me RIGHT NOW, are diagnostics covered or not?!  This is outrageous!",Coverage Inquiry,Diagnostics,Negative
+"This policy is a scam if it doesn't even cover basic diagnostic tests!  I need to know definitively if diagnostics are included, or I'm cancelling my policy!",Coverage Inquiry,Diagnostics,Negative
+"I want to understand if my policy includes coverage for diagnostic assessments.",Coverage Inquiry,Diagnostics,Neutral
+"Could you clarify the policy on diagnostic tests? Are they typically covered under my plan?",Coverage Inquiry,Diagnostics,Neutral
+"I'm just seeking information about diagnostic coverage under my insurance policy.  Any details you can provide would be helpful.",Coverage Inquiry,Diagnostics,Neutral
+"I am thrilled to find out that my policy includes diagnostic coverage! This is a fantastic benefit and very reassuring!",Coverage Inquiry,Diagnostics,Positive
+"Thank you for confirming that diagnostic tests are covered! It's excellent to know that these essential procedures are included in my plan.",Coverage Inquiry,Diagnostics,Positive
+"I'm writing to express my appreciation for the diagnostic coverage included in my policy. It's a valuable feature and greatly appreciated, thank you!",Coverage Inquiry,Diagnostics,Positive
+"When is my next insurance payment due?",Coverage Inquiry,Payment,Neutral
+"Why is my payment amount suddenly so high?! This is price gouging!  Explain this outrageous increase immediately, or I'm reporting you!",Coverage Inquiry,Payment,Negative
+"This billing is completely incomprehensible!  I demand a clear and detailed breakdown of my payment, and I want it NOW!",Coverage Inquiry,Payment,Negative
+"I am utterly disgusted with these fluctuating and inflated payments!  This is dishonest billing!  Provide a stable and reasonable payment plan, or I'm leaving!",Coverage Inquiry,Payment,Negative
+"I'd like to inquire about my upcoming payment due date and the amount.",Coverage Inquiry,Payment,Neutral
+"Can you tell me when my next payment is scheduled and the total amount due?",Coverage Inquiry,Payment,Neutral
+"I'm just calling to confirm my next payment date and amount. Any information would be helpful.",Coverage Inquiry,Payment,Neutral
+"I'm very happy with the clear and straightforward payment process you have! It's so easy to manage my payments.",Coverage Inquiry,Payment,Positive
+"Thank you for making the payment process so simple and user-friendly!  I really appreciate the convenience and clarity of the billing.",Coverage Inquiry,Payment,Positive
+"I'm writing to express my satisfaction with the easy and efficient payment system you have.  It's a pleasure to handle my payments with you, thank you!",Coverage Inquiry,Payment,Positive
+"Can I get a claim status update please?",Coverage Inquiry,Claim Status,Neutral
+"What is taking so long with my claim?!  It's been ages, and I'm still in the dark!  Give me a real claim status update NOW, not your usual vague nonsense!",Coverage Inquiry,Claim Status,Negative
+"I demand to know the status of my claim RIGHT NOW!  This radio silence is infuriating!  Tell me what's going on, and don't give me any more excuses!",Coverage Inquiry,Claim Status,Negative
+"This claim process is a black hole!  I've heard nothing for weeks!  I need a detailed and honest update on my claim status, and I need it immediately!",Coverage Inquiry,Claim Status,Negative
+"I would like to request an update on the current status of my insurance claim.",Coverage Inquiry,Claim Status,Neutral
+"Could you please check the status of my claim and provide me with any available information?",Coverage Inquiry,Claim Status,Neutral
+"I'm just calling to get a claim status update.  Any details you can share would be appreciated.",Coverage Inquiry,Claim Status,Neutral
+"I am absolutely delighted to hear that my claim has been approved!  Thank you for the wonderful news and the quick resolution!",Coverage Inquiry,Claim Status,Positive
+"Thank you so much for the positive update on my claim status! I'm thrilled that it's been resolved so favorably and efficiently!",Coverage Inquiry,Claim Status,Positive
+"I'm writing to express my immense joy at the positive outcome of my claim!  Thank you for the fantastic news and the speedy resolution, it's greatly appreciated!",Coverage Inquiry,Claim Status,Positive
+"Please send me the latest updates on my claim.",Coverage Inquiry,Updates,Neutral
+"Why am I always chasing YOU for updates?!  Shouldn't YOU be keeping ME informed?!  Start sending me proactive claim updates, or I'm complaining!",Coverage Inquiry,Updates,Negative
+"I am sick of having to constantly call for claim updates!  Your lack of communication is appalling!  Provide regular updates from now on, without me having to beg!",Coverage Inquiry,Updates,Negative
+"Your failure to provide proactive claim updates is completely unacceptable!  I expect to be kept informed, without having to chase you down for every scrap of information!",Coverage Inquiry,Updates,Negative
+"I'm requesting the most recent updates regarding my insurance claim.  Could you please provide them?",Coverage Inquiry,Updates,Neutral
+"Can you send me the latest updates on my claim?  I'd like to know about any recent developments.",Coverage Inquiry,Updates,Neutral
+"I'm just calling to request claim updates.  Any new information you can send my way would be helpful.",Coverage Inquiry,Updates,Neutral
+"I am so impressed with the proactive claim updates I've been receiving!  It's incredibly helpful and keeps me fully informed every step of the way!",Coverage Inquiry,Updates,Positive
+"Thank you for consistently sending me claim updates!  It's wonderful to be kept in the loop without having to constantly call and inquire.",Coverage Inquiry,Updates,Positive
+"I'm writing to express my gratitude for the regular claim updates I've received.  It's exceptional customer service and greatly appreciated, thank you!",Coverage Inquiry,Updates,Positive
+"I wanted to leave some general feedback about my customer service experience.",Customer Feedback,Customer Feedback,Neutral
+"Your customer service is a disgrace!  I've never encountered such incompetence and rudeness!  This is the worst service I've ever experienced!",Customer Feedback,Customer Feedback,Negative
+"I am appalled by the level of customer service I've received!  It's been frustrating, unhelpful, and downright insulting!  Your service is abysmal!",Customer Feedback,Customer Feedback,Negative
+"This is the most horrific customer service I have ever encountered!  Your representatives are clueless and unprofessional!  I am utterly disgusted!",Customer Feedback,Customer Feedback,Negative
+"I wish to provide some general feedback concerning my recent customer service interaction.",Customer Feedback,Customer Feedback,Neutral
+"I'm looking to leave feedback about my overall experience with your customer service.",Customer Feedback,Customer Feedback,Neutral
+"I have some general feedback I'd like to share regarding my customer service interaction.",Customer Feedback,Customer Feedback,Neutral
+"I am absolutely delighted with the customer service I've received!  Your representatives were incredibly helpful, polite, and efficient!",Customer Feedback,Customer Feedback,Positive
+"Thank you for providing such exceptional customer service!  I'm so impressed with the helpfulness, professionalism, and efficiency of your team!",Customer Feedback,Customer Feedback,Positive
+"I'm writing to express my sincere admiration for the outstanding customer service I experienced!  It was truly exceptional and made a huge difference, thank you!",Customer Feedback,Customer Feedback,Positive
+"Is there a customer satisfaction survey I can take?",Customer Feedback,Customer Satisfaction Survey,Neutral
+"Your customer satisfaction surveys are a joke if you don't actually listen to the feedback!  Do you even care what customers think?!  Prove it by fixing your service!",Customer Feedback,Customer Satisfaction Survey,Negative
+"I've taken your customer satisfaction surveys before, and nothing ever changes!  It's a complete waste of time!  Why even bother asking for feedback if you ignore it?!",Customer Feedback,Customer Satisfaction Survey,Negative
+"These customer satisfaction surveys are clearly just for show!  You're not genuinely interested in customer opinions!  Stop pretending to care and actually improve your service!",Customer Feedback,Customer Satisfaction Survey,Negative
+"I'm interested in participating in a customer satisfaction survey, if you have one available.",Customer Feedback,Customer Satisfaction Survey,Neutral
+"Could you direct me to your customer satisfaction survey? I'd like to provide some feedback.",Customer Feedback,Customer Satisfaction Survey,Neutral
+"I was wondering if there's a customer satisfaction survey I could complete.  I'd like to share my thoughts.",Customer Feedback,Customer Satisfaction Survey,Neutral
+"I am thrilled to have the opportunity to take your customer satisfaction survey!  It shows you genuinely value customer opinions, which is fantastic!",Customer Feedback,Customer Satisfaction Survey,Positive
+"Thank you for offering a customer satisfaction survey!  It's great to know you're actively seeking customer feedback to improve your services.",Customer Feedback,Customer Satisfaction Survey,Positive
+"I'm writing to commend you for providing customer satisfaction surveys!  It's a wonderful way to gather feedback and shows a real commitment to improvement, thank you!",Customer Feedback,Customer Satisfaction Survey,Positive
+"How can I initiate a formal customer feedback survey regarding my service?",Customer Feedback,Survey Initiation,Neutral
+"I demand to initiate a formal customer feedback survey RIGHT NOW!  My experience has been so appalling it requires immediate formal review!",Customer Feedback,Survey Initiation,Negative
+"Your standard feedback channels are completely inadequate for the level of dissatisfaction I'm experiencing!  I insist on initiating a formal customer feedback survey process!",Customer Feedback,Survey Initiation,Negative
+"I am beyond frustrated with your ineffective feedback system!  I need to escalate this to a formal customer feedback survey, and I need to start it immediately!",Customer Feedback,Survey Initiation,Negative
+"I'm looking to start a formal customer feedback survey. What is the process for initiating one?",Customer Feedback,Survey Initiation,Neutral
+"Could you guide me on how to begin a formal customer feedback survey for my account?",Customer Feedback,Survey Initiation,Neutral
+"I'm just inquiring about initiating a formal customer feedback survey.  What steps do I need to take to start this process?",Customer Feedback,Survey Initiation,Neutral
+"I am so impressed that you offer the option to initiate a formal customer feedback survey!  It demonstrates a real commitment to resolving customer issues seriously!",Customer Feedback,Survey Initiation,Positive
+"Thank you for allowing me to initiate a customer feedback survey!  It's excellent that you provide this avenue for customers to formally express their feedback and concerns.",Customer Feedback,Survey Initiation,Positive
+"I'm writing to express my appreciation for the option to initiate a formal customer feedback survey. It's a fantastic way to ensure customer voices are heard and valued, thank you!",Customer Feedback,Survey Initiation,Positive
+"Do you have a customer feedback survey that is specific to claim handling processes?",Customer Feedback,Customer Feedback Survey,Neutral
+"Your generic customer feedback surveys are useless for detailed claim issues!  Do you even have a survey that focuses specifically on claim handling?!  I doubt it!",Customer Feedback,Customer Feedback Survey,Negative
+"These broad customer satisfaction surveys are a complete waste of time for claim-specific feedback!  I need a survey that actually addresses the nuances of claim handling, and I need it now!",Customer Feedback,Customer Feedback Survey,Negative
+"Your lack of claim-specific customer feedback surveys is astounding!  It shows you don't genuinely care about improving your claim processes!  Provide a relevant survey immediately!",Customer Feedback,Customer Feedback Survey,Negative
+"I'm trying to find a customer feedback survey specifically about the claims handling process.",Customer Feedback,Customer Feedback Survey,Neutral
+"Could you direct me to a customer feedback survey focused on claim handling experiences?",Customer Feedback,Customer Feedback Survey,Neutral
+"I'm just wondering if there's a customer feedback survey available that specifically targets claim handling procedures.",Customer Feedback,Customer Feedback Survey,Neutral
+"I am thrilled to discover that you have a customer feedback survey dedicated to claim handling!  This shows a real focus on improving your claim services, which is fantastic!",Customer Feedback,Customer Feedback Survey,Positive
+"Thank you for providing a customer feedback survey specifically for claim handling!  It's excellent that you're actively seeking detailed feedback on this crucial area.",Customer Feedback,Customer Feedback Survey,Positive
+"I'm writing to express my appreciation for the claim-specific customer feedback survey! It's a wonderful way to gather targeted feedback and demonstrates a true commitment to improving claim processes, thank you!",Customer Feedback,Customer Feedback Survey,Positive
+"Could you remind me what my current deductible amount is?",Deductible Inquiry,Deductible Amount & Adjustments,Neutral
+"This deductible amount is highway robbery!  It's ridiculously high and unfair!  Explain this outrageous deductible immediately, or I'm disputing it!",Deductible Inquiry,Deductible Amount & Adjustments,Negative
+"My deductible amount is completely unacceptable!  It's financially crippling!  Reduce this exorbitant deductible to something reasonable NOW!",Deductible Inquiry,Deductible Amount & Adjustments,Negative
+"I am beyond outraged by this exorbitant deductible amount!  It's predatory and unjust!  Justify this outrageous deductible, or I'm cancelling my policy!",Deductible Inquiry,Deductible Amount & Adjustments,Negative
+"I'm calling to confirm my deductible amount. Can you please provide that information?",Deductible Inquiry,Deductible Amount & Adjustments,Neutral
+"Could you please tell me what my current deductible is? I need to verify the amount.",Deductible Inquiry,Deductible Amount & Adjustments,Neutral
+"I just need a quick reminder of my deductible amount.  Could you let me know what it is?",Deductible Inquiry,Deductible Amount & Adjustments,Neutral
+"I am very happy with my deductible amount! It's perfectly reasonable and fits comfortably within my budget.",Deductible Inquiry,Deductible Amount & Adjustments,Positive
+"Thank you for clarifying my deductible amount. It's very fair and I appreciate the transparent pricing.",Deductible Inquiry,Deductible Amount & Adjustments,Positive
+"I'm writing to express my satisfaction with my deductible amount. It's very reasonable and well-structured, thank you!",Deductible Inquiry,Deductible Amount & Adjustments,Positive
+"I need to understand how my deductible coverage applies in my situation.",Deductible Inquiry,Deductible Coverage & Discrepancies,Neutral
+"This deductible coverage is a complete scam!  It's being applied unfairly and inconsistently!  Explain this deductible deception NOW!",Deductible Inquiry,Deductible Coverage & Discrepancies,Negative
+"There's a clear discrepancy in my deductible coverage!  It's not being applied as promised!  Rectify this fraudulent deductible coverage immediately!",Deductible Inquiry,Deductible Coverage & Discrepancies,Negative
+"I am disgusted by this misleading deductible coverage!  It's bait-and-switch tactics!  Explain this deductible trickery, or I'm taking legal action!",Deductible Inquiry,Deductible Coverage & Discrepancies,Negative
+"I'm seeking clarification on how my deductible coverage works in this particular scenario.",Deductible Inquiry,Deductible Coverage & Discrepancies,Neutral
+"Could you explain the details of my deductible coverage as it applies to my current claim?",Deductible Inquiry,Deductible Coverage & Discrepancies,Neutral
+"I'm just looking for information on how the deductible coverage is applied in my situation.  Any clarification would be helpful.",Deductible Inquiry,Deductible Coverage & Discrepancies,Neutral
+"I am very satisfied with the clear and fair application of my deductible coverage. It's all very transparent and understandable.",Deductible Inquiry,Deductible Coverage & Discrepancies,Positive
+"Thank you for explaining the deductible coverage so clearly! I now fully understand how it applies to my claim, which is very reassuring.",Deductible Inquiry,Deductible Coverage & Discrepancies,Positive
+"I'm writing to express my appreciation for the transparent and fair deductible coverage. It's all very straightforward and well-explained, thank you!",Deductible Inquiry,Deductible Coverage & Discrepancies,Positive
+"Are there any deductible waivers available under my policy?",Deductible Inquiry,Deductible Waivers & Discounts,Neutral
+"Deductible waivers are just a marketing gimmick! You never actually grant them!  Stop advertising these fake waivers and be honest!",Deductible Inquiry,Deductible Waivers & Discounts,Negative
+"I've requested deductible waivers before, and they're always denied for ridiculous reasons!  These waivers are a complete lie!  Stop misleading customers!",Deductible Inquiry,Deductible Waivers & Discounts,Negative
+"Your deductible waiver program is a complete sham! It's designed to deceive customers into thinking they can get waivers, but it's all smoke and mirrors!  Be truthful!",Deductible Inquiry,Deductible Waivers & Discounts,Negative
+"I'd like to inquire about any potential deductible waivers or discounts that I might be eligible for.",Deductible Inquiry,Deductible Waivers & Discounts,Neutral
+"Can you tell me about the deductible waiver options available under my policy?",Deductible Inquiry,Deductible Waivers & Discounts,Neutral
+"I'm just asking to find out about any possible deductible waivers or discounts.  Any information on this would be helpful.",Deductible Inquiry,Deductible Waivers & Discounts,Neutral
+"I am absolutely thrilled to have received a deductible waiver! This is incredibly helpful and shows you truly care about your customers!",Deductible Inquiry,Deductible Waivers & Discounts,Positive
+"Thank you so much for granting me a deductible waiver!  It's a huge relief and I greatly appreciate your generosity and understanding!",Deductible Inquiry,Deductible Waivers & Discounts,Positive
+"I'm writing to express my immense gratitude for the deductible waiver I received. It's a wonderful gesture and has made a huge difference, thank you!",Deductible Inquiry,Deductible Waivers & Discounts,Positive
+"I'm seeking clarification on the reason my deductible waiver was denied.",Deductible Inquiry,Denial Reason,Neutral
+"This deductible waiver denial is outrageous and unjustified!  Give me a legitimate reason for this ridiculous denial, or I'm escalating this immediately!",Deductible Inquiry,Denial Reason,Negative
+"The reason for my deductible waiver denial is completely unacceptable! It's vague and meaningless! Provide a SPECIFIC and HONEST explanation NOW!",Deductible Inquiry,Denial Reason,Negative
+"I am beyond disgusted with this sham denial of my deductible waiver!  The reason provided is a blatant lie!  Give me the TRUE reason for this unjust denial, or I'm taking action!",Deductible Inquiry,Denial Reason,Negative
+"I would like to understand the specific reasons for the denial of my deductible waiver request.",Deductible Inquiry,Denial Reason,Neutral
+"Could you please explain in detail why my deductible waiver was denied? I'm seeking clarification.",Deductible Inquiry,Denial Reason,Neutral
+"I'm just calling to get a better understanding of the deductible waiver denial reason.  Any details you can provide would be helpful.",Deductible Inquiry,Denial Reason,Neutral
+"I appreciate the clear and detailed explanation for the deductible waiver denial.  While disappointed, I understand the reasoning now, thank you for the transparency.",Deductible Inquiry,Denial Reason,Positive
+"Thank you for taking the time to thoroughly explain the denial of my deductible waiver.  It was very helpful to understand the specific policy criteria.",Deductible Inquiry,Denial Reason,Positive
+"I'm writing to express my appreciation for the detailed and transparent explanation of the deductible waiver denial.  It was very informative and helped me understand the situation better, thank you!",Deductible Inquiry,Denial Reason,Positive
+"Yo, lemme get my claim transferred, pronto. This dude I got ain't cuttin' it, know what I mean?",Contract Modification,Claim Transfer Requests,Negative
+"Like, seriously, is anyone even LISTENING to me? Third time askin' for a transfer. My ride's gettin' worse by the day, move it!",Contract Modification,Claim Transfer Requests,Negative
+"Good day. I am writing to formally request a claim transfer. My current adjuster has been unresponsive, and I require reassignment for efficient processing.",Contract Modification,Claim Transfer Requests,Negative
+"Pardon me, could you please explain the procedure for initiating a transfer request for my current claim? I'm not entirely clear on the process.",Contract Modification,Claim Transfer Requests,Neutral
+"Just wondering what the deal is with claim transfers?  Heard it's possible, wanna know how it works, cheers.",Contract Modification,Claim Transfer Requests,Neutral
+"So, claim transfers, huh? Walk me through it like I'm five. What do I gotta do to switch adjusters?",Contract Modification,Claim Transfer Requests,Neutral
+"Hey, just wanted to shout out for the smooth claim transfer.  Seriously, appreciate the hustle!",Contract Modification,Claim Transfer Requests,Positive
+"Massive thanks for sorting out that claim transfer!  Made life way easier, you're a star!",Contract Modification,Claim Transfer Requests,Positive
+"I wish to extend my sincere gratitude for your efficient handling of my claim transfer request. The process was remarkably seamless.",Contract Modification,Claim Transfer Requests,Positive
+"Oi, email update, yeah?  Still waitin' on somethin' from ages ago. Sort it out, will ya?",Contract Modification,Email Update,Negative
+"Listen up, my inbox is drier than the Sahara. Email updates?  Yeah right.  Actually update it this time!",Contract Modification,Email Update,Negative
+"Greetings. I am writing to ascertain the status of email communication regarding my claim. I have not received anticipated updates.",Contract Modification,Email Update,Negative
+"Excuse me, could you verify the email address currently associated with my account for claim-related updates? Just want to be sure it's correct.",Contract Modification,Email Update,Neutral
+"Email situation - just wanna check what addy you got for me, wanna make sure I'm gettin' the claim deets, innit?",Contract Modification,Email Update,Neutral
+"Alright, email update check -  what's the email on file? Just confirming, you know how it is.",Contract Modification,Email Update,Neutral
+"Legend for the email update, mate!  Properly sorted now, cheers!",Contract Modification,Email Update,Positive
+"Email's sorted, sweet as!  Thanks for gettin' that sorted pronto, top stuff!",Contract Modification,Email Update,Positive
+"Please accept my thanks for your prompt action in updating my email address. It is much appreciated for future correspondence.",Contract Modification,Email Update,Positive
+"Claim processin' -  a month?!  You kiddin' me?  Spit it out, what's the hold up?!",Contract Modification,Claim Processing,Negative
+"Yo, this claim's been 'processin'' since dinosaurs roamed!  Gimme the lowdown, what's actually goin' on?",Contract Modification,Claim Processing,Negative
+"I am writing to express my profound concern regarding the protracted processing of my claim. The delay is becoming increasingly problematic.",Contract Modification,Claim Processing,Negative
+"Pardon me, could you elucidate the current stage of my claim's processing and perhaps provide an estimated timeframe for resolution?",Contract Modification,Claim Processing,Neutral
+"So, claim processing – just curious, where are we at with it? Any idea on when things might move forward?",Contract Modification,Claim Processing,Neutral
+"Claim processing update?  Just wanna know what's what, no rush, just curious about the timeline.",Contract Modification,Claim Processing,Neutral
+"Boom! Claim processed!  Fast work, much respect!",Contract Modification,Claim Processing,Positive
+"Claim's processed, wicked!  Thanks for gettin' that done lickety-split!",Contract Modification,Claim Processing,Positive
+"I wish to commend your team for the remarkably swift and efficient processing of my claim. The speed was most impressive.",Contract Modification,Claim Processing,Positive
+"RV claim?  You're jokin', right?  No one there knows RVs from rowboats!  Get me someone who speaks RV!",Contract Modification,RV Claims Assistance,Negative
+"Listen, this ain't no Prius! It's an RV, capiche?  RV claim expert, now!  Don't gimme the runaround!",Contract Modification,RV Claims Assistance,Negative
+"I am encountering considerable difficulty locating appropriate assistance for my RV claim. It appears specialized expertise is lacking.",Contract Modification,RV Claims Assistance,Negative
+"Excuse me, I require specialized assistance with an RV claim. Could you direct me to the relevant department or individual, please?",Contract Modification,RV Claims Assistance,Neutral
+"RV claim help?  Just wondering who I should chat to about this RV damage, needs someone who gets RVs.",Contract Modification,RV Claims Assistance,Neutral
+"RV claim query – who’s the go-to person for RV stuff? Need some guidance on this.",Contract Modification,RV Claims Assistance,Neutral
+"Top notch RV claim help!  Sorted me right out, proper legends!",Contract Modification,RV Claims Assistance,Positive
+"RV claim assistance was bangin'!  Really knew their stuff, made it a breeze, cheers!",Contract Modification,RV Claims Assistance,Positive
+"I am writing to express my sincere appreciation for the expert RV claims assistance provided. The specialist was exceptionally knowledgeable and helpful.",Contract Modification,RV Claims Assistance,Positive
+"Contract transfer status?  Still waitin'.  This is draggin', innit?",Contract Transfer,Contract Transfer Status,Negative
+"Oi, transfer status?  Still up in the air?  C'mon, need to get this wrapped up, yeah?",Contract Transfer,Contract Transfer Status,Negative
+"I am compelled to inquire again regarding the status of my contract transfer. The lack of resolution is causing considerable inconvenience.",Contract Transfer,Contract Transfer Status,Negative
+"Excuse me, could you please provide an update on the current status of my pending contract transfer request? I am eager for an update.",Contract Transfer,Contract Transfer Status,Neutral
+"Transfer status check?  Just wanna see where we're at with the contract transfer thing, you know?",Contract Transfer,Contract Transfer Status,Neutral
+"Contract transfer update?  Just a quick check-in, what’s the latest?",Contract Transfer,Contract Transfer Status,Neutral
+"Transfer's done!  Sorted!  Thanks for the quick turnaround, appreciate it!",Contract Transfer,Contract Transfer Status,Positive
+"Contract transferred, brilliant!  Job well done, cheers for the speed!",Contract Transfer,Contract Transfer Status,Positive
+"I am pleased to acknowledge the successful completion of my contract transfer. Thank you for the expeditious and efficient service.",Contract Transfer,Contract Transfer Status,Positive
+"Windshield coverage?  Don't tell me it's some kinda loophole again.  Does it COVER it or not?!",Coverage Inquiry,Coverage,Negative
+"Liability coverage?  Layman's terms, NOW!  What am I shellin' out for, exactly?!",Coverage Inquiry,Coverage,Negative
+"Regarding policy coverage, I seek clarification on the extent of protections afforded in instances of severe weather events.",Coverage Inquiry,Coverage,Negative
+"Excuse me, could you please elaborate on the scope of my policy coverage, specifically concerning damage from vandalism?",Coverage Inquiry,Coverage,Neutral
+"Coverage query - just wanna get the lowdown on what's covered, plain and simple, yeah?",Coverage Inquiry,Coverage,Neutral
+"Coverage check-up?  Just wanna understand the basics of what I'm covered for, nothing fancy.",Coverage Inquiry,Coverage,Neutral
+"Top marks for the coverage, seriously comprehensive, feel proper secure now!",Coverage Inquiry,Coverage,Positive
+"Coverage is spot on, love it!  Proper peace of mind, thanks for the great policy!",Coverage Inquiry,Coverage,Positive
+"I wish to express my satisfaction with the extensive and comprehensive nature of my policy's coverage provisions. It is most reassuring.",Coverage Inquiry,Coverage,Positive
+"Repair authorization?  Still waiting?!  This is gonna cost me a fortune in rentals!  Authorize it ALREADY!",Coverage Inquiry,Authorizations & Approvals,Negative
+"Authorization's a joke!  Drivin' me nuts!  Approve the repairs, or I'm switchin' insurers, swear down!",Coverage Inquiry,Authorizations & Approvals,Negative
+"I must express my extreme dissatisfaction with the considerable delay in obtaining repair authorization. This is creating undue hardship.",Coverage Inquiry,Authorizations & Approvals,Negative
+"Pardon me, I am inquiring about the current status of my repair authorization request. Could you provide an update on its progress?",Coverage Inquiry,Authorizations & Approvals,Neutral
+"Authorization update needed - just checkin' in on the repair thing, any movement?",Coverage Inquiry,Authorizations & Approvals,Neutral
+"Repair authorization - just a quick peek, where's it at, mate?",Coverage Inquiry,Authorizations & Approvals,Neutral
+"Authorization sorted!  Cheers for the super-fast approval, lifesavers!",Coverage Inquiry,Authorizations & Approvals,Positive
+"Repair authorization's in, wicked!  Proper speedy work, thanks a bunch!",Coverage Inquiry,Authorizations & Approvals,Positive
+"I wish to convey my sincere appreciation for the remarkably swift authorization of my vehicle repairs. Your promptness is greatly valued.",Coverage Inquiry,Authorizations & Approvals,Positive
+"Diagnostics covered?  Don't pull my leg.  Are you gonna weasel out of this too?!  Cover it or not?!",Coverage Inquiry,Diagnostics,Negative
+"Mechanic says 'diagnostics'.  Insurance better cover it, or heads will roll!  Confirm NOW!",Coverage Inquiry,Diagnostics,Negative
+"I am seeking unequivocal confirmation regarding policy coverage for diagnostic procedures. Clarity on this matter is paramount.",Coverage Inquiry,Diagnostics,Negative
+"Excuse me, I'm inquiring about policy coverage for diagnostic tests. Could you please clarify if these are included under my current policy?",Coverage Inquiry,Diagnostics,Neutral
+"Diagnostics question - just wanna know if the policy covers checkin' out what's wrong with the car, you get me?",Coverage Inquiry,Diagnostics,Neutral
+"Diagnostic coverage - quick one, are diagnostics generally covered, yeah?",Coverage Inquiry,Diagnostics,Neutral
+"Diagnostics ARE covered!  Ace!  That's a proper relief, cheers for the info!",Coverage Inquiry,Diagnostics,Positive
+"Diagnostics coverage confirmed, lush!  That’s a weight off my mind, thanks a bunch!",Coverage Inquiry,Diagnostics,Positive
+"I am pleased to learn of the inclusion of diagnostic coverage within my policy. This is a most beneficial provision.",Coverage Inquiry,Diagnostics,Positive
+"Payment due date?  This month's bill's sky high!  Explain yourself, or this ain't gettin' paid!",Coverage Inquiry,Payment,Negative
+"Payment amount's jumpin' around like a kangaroo!  Stabilize it, explain it, or you'll hear from my lawyer!",Coverage Inquiry,Payment,Negative
+"I am writing to register my vehement objection to the fluctuating and excessive payment amounts. This billing practice is unacceptable.",Coverage Inquiry,Payment,Negative
+"Excuse me, could you please inform me of my next payment due date and the precise amount payable? I require this information for budgetary planning.",Coverage Inquiry,Payment,Neutral
+"Payment info needed - when's it due and how much this time? Just need the deets, yeah?",Coverage Inquiry,Payment,Neutral
+"Payment date and amount - quick reminder, what are they lookin' like?",Coverage Inquiry,Payment,Neutral
+"Payment sorted, easy peasy!  Love how simple it is, top marks!",Coverage Inquiry,Payment,Positive
+"Payment process is bang on, mate!  Dead simple and quick, cheers for the smooth system!",Coverage Inquiry,Payment,Positive
+"I wish to commend your organization on the streamlined and user-friendly payment process. It is most efficient and appreciated.",Coverage Inquiry,Payment,Positive
+"Claim status?  Weeks on end, not a peep!  Stop stonewallin' and spill the beans!",Coverage Inquiry,Claim Status,Negative
+"Status update, claim?!  Still radio silence?  Enough is enough!  Tell me what's goin' on, straight up!",Coverage Inquiry,Claim Status,Negative
+"I am exceedingly displeased with the conspicuous absence of communication regarding my claim status. This lack of transparency is unacceptable.",Coverage Inquiry,Claim Status,Negative
+"Pardon me, I am attempting to ascertain the current status of my claim, reference number [Claim Number]. Could you provide a detailed update, please?",Coverage Inquiry,Claim Status,Neutral
+"Claim status inquiry - just wanna see where my claim's at, any news?",Coverage Inquiry,Claim Status,Neutral
+"Claim status check?  Any updates on how things are movin'?",Coverage Inquiry,Claim Status,Neutral
+"Claim approved!  Boom!  Cheers for the good news, made my day!",Coverage Inquiry,Claim Status,Positive
+"Claim's gone through, yes!  Stoked about that, thanks for the quick resolution!",Coverage Inquiry,Claim Status,Positive
+"I am overjoyed to receive confirmation of my claim's approval. Thank you for the positive outcome and efficient resolution.",Coverage Inquiry,Claim Status,Positive
+"Claim updates?  Crickets!  You guys allergic to keepin' customers informed?!  Start communicatin'!",Coverage Inquiry,Updates,Negative
+"Updates on my claim?  Don't hold your breath!  Proactive communication?  Apparently not in your vocabulary!  Change it, NOW!",Coverage Inquiry,Updates,Negative
+"I must register my profound disappointment regarding the absence of proactive updates on my claim. Consistent communication is a fundamental expectation.",Coverage Inquiry,Updates,Negative
+"Excuse me, I am requesting the latest available updates concerning my insurance claim. Kindly forward any pertinent information.",Coverage Inquiry,Updates,Neutral
+"Claim update request - just need the latest info, anything new to report?",Coverage Inquiry,Updates,Neutral
+"Claim updates needed - anything fresh on the claim front?",Coverage Inquiry,Updates,Neutral
+"Updates are rollin' in!  Legend!  Properly appreciated, keep 'em comin'!",Coverage Inquiry,Updates,Positive
+"Regular updates are bang on, mate!  Keeps me in the loop, top notch service, cheers!",Coverage Inquiry,Updates,Positive
+"I wish to express my sincere gratitude for the consistent and proactive updates provided on my claim. This level of communication is exemplary.",Coverage Inquiry,Updates,Positive
+"Customer service?  Disaster zone!  Never seen service this bad, honestly.  Sort it out!",Customer Feedback,Customer Feedback,Negative
+"Your customer service is a joke!  Rude, clueless, and utterly useless!  Fix this mess, or you're losin' a customer!",Customer Feedback,Customer Feedback,Negative
+"I am compelled to register my profound dissatisfaction with the abysmal level of customer service encountered. It is demonstrably substandard.",Customer Feedback,Customer Feedback,Negative
+"Excuse me, I wish to provide feedback regarding my recent customer service experience. I have some observations to share.",Customer Feedback,Customer Feedback,Neutral
+"Feedback time - just wanna drop a line about the customer service interaction, got some thoughts.",Customer Feedback,Customer Feedback,Neutral
+"Customer service feedback - just a quick note on my experience, wanted to give you the heads up.",Customer Feedback,Customer Feedback,Neutral
+"Customer service is absolutely spot on!  Properly helpful and friendly, top marks!",Customer Feedback,Customer Feedback,Positive
+"Customer service is wicked good, innit!  Sorted me right out, cheers to the team!",Customer Feedback,Customer Feedback,Positive
+"I am delighted to express my profound satisfaction with the exemplary customer service provided. It was truly exceptional in all respects.",Customer Feedback,Customer Feedback,Positive
+"Satisfaction survey?  Yeah, lemme at it.  Got PLENTY to say, believe me.",Customer Feedback,Customer Satisfaction Survey,Negative
+"Survey invite?  Bring it on!  Gonna give you a piece of my mind, be warned!",Customer Feedback,Customer Satisfaction Survey,Negative
+"I am inclined to participate in your customer satisfaction survey, should such an instrument exist. I possess considerable feedback.",Customer Feedback,Customer Satisfaction Survey,Negative
+"Excuse me, is there a customer satisfaction survey available for me to complete? I would like to offer my feedback.",Customer Feedback,Customer Satisfaction Survey,Neutral
+"Survey time?  Yeah, happy to chuck in my two cents if there’s a survey goin' around.",Customer Feedback,Customer Satisfaction Survey,Neutral
+"Customer survey – if there is one, I’m happy to fill it in, always keen to give feedback.",Customer Feedback,Customer Satisfaction Survey,Neutral
+"Survey?  Yeah, wicked!  Happy to give you the thumbs up, service was top!",Customer Feedback,Customer Satisfaction Survey,Positive
+"Customer satisfaction survey?  Count me in!  Gonna give you a stellar review, you deserve it!",Customer Feedback,Customer Satisfaction Survey,Positive
+"I am most pleased to accept your invitation to participate in a customer satisfaction survey. My experience has been overwhelmingly positive.",Customer Feedback,Customer Satisfaction Survey,Positive
+"Feedback survey initiation?  Yeah, about time!  Gonna launch one myself 'cause your channels are useless!",Customer Feedback,Survey Initiation,Negative
+"Survey initiation request?  You betcha!  Standard channels are failin', need a formal survey ASAP!",Customer Feedback,Survey Initiation,Negative
+"I am formally requesting the initiation of a customer feedback survey pertaining to my account. Current channels are proving inadequate.",Customer Feedback,Survey Initiation,Negative
+"Excuse me, I am interested in initiating a formal customer feedback survey. Could you please outline the process for doing so?",Customer Feedback,Survey Initiation,Neutral
+"Survey start-up – how do I kick off a formal feedback thingy for my account?",Customer Feedback,Survey Initiation,Neutral
+"Survey initiation process?  Just wanna know how to get the ball rolling on a proper feedback survey.",Customer Feedback,Survey Initiation,Neutral
+"Survey initiation?  Sorted!  Cheers for gettin' that set up, appreciate the extra mile!",Customer Feedback,Survey Initiation,Positive
+"Survey started, sweet!  Thanks for helpin' me get that goin', top banana!",Customer Feedback,Survey Initiation,Positive
+"I wish to convey my gratitude for your assistance in initiating a formal customer feedback survey. Your responsiveness in this matter is commendable.",Customer Feedback,Survey Initiation,Positive
+"Claim feedback survey?  Don't gimme some generic rubbish.  Claim-SPECIFIC, got it?!",Customer Feedback,Customer Feedback Survey,Negative
+"Survey for claims?  Better be proper focused on claims, or what's the point?!  Need details, not fluff!",Customer Feedback,Customer Feedback Survey,Negative
+"I am seeking a customer feedback survey instrument specifically designed to evaluate claim handling procedures. Generic instruments are insufficient.",Customer Feedback,Customer Feedback Survey,Negative
+"Excuse me, do you offer a customer feedback survey that is specifically tailored to claim handling processes? I am interested in providing targeted feedback.",Customer Feedback,Customer Feedback Survey,Neutral
+"Claim survey - any chance there's a survey just 'bout claims stuff? Wanna give feedback on that bit.",Customer Feedback,Customer Feedback Survey,Neutral
+"Claim feedback – is there a survey focused just on claim handling, wanna share some thoughts.",Customer Feedback,Customer Feedback Survey,Neutral
+"Claim survey is bang on!  Properly detailed for claims, cheers for the focus!",Customer Feedback,Customer Feedback Survey,Positive
+"Claim survey – wicked!  Really lets you drill down on the claims bit, top stuff for that!",Customer Feedback,Customer Feedback Survey,Positive
+"I am most impressed by the availability of a customer feedback survey specifically dedicated to claim handling. This demonstrates a commitment to specialized feedback collection.",Customer Feedback,Customer Feedback Survey,Positive
+"Deductible amount?  Seriously?!  That's daylight robbery!  Explain this rip-off, NOW!",Deductible Inquiry,Deductible Amount & Adjustments,Negative
+"Yo, deductible's through the roof!  You tryin' to bankrupt me?!  Lower it, or else!",Deductible Inquiry,Deductible Amount & Adjustments,Negative
+"I am writing to express my profound dismay at the exorbitant deductible amount stipulated in my policy. It is financially burdensome and inequitable.",Deductible Inquiry,Deductible Amount & Adjustments,Negative
+"Excuse me, could you please reiterate my current deductible amount? I wish to confirm the figure.",Deductible Inquiry,Deductible Amount & Adjustments,Neutral
+"Deductible info - just a quick refresh on the deductible amount, cheers.",Deductible Inquiry,Deductible Amount & Adjustments,Neutral
+"Deductible amount check –  just wanna confirm the current deductible, if you wouldn't mind.",Deductible Inquiry,Deductible Amount & Adjustments,Neutral
+"Deductible amount is spot on, fair play!  Reasonable and well within my budget, cheers!",Deductible Inquiry,Deductible Amount & Adjustments,Positive
+"Deductible amount is wicked good!  Just right for me, thanks for the fair deal!",Deductible Inquiry,Deductible Amount & Adjustments,Positive
+"I am pleased to acknowledge that the deductible amount is entirely acceptable and commensurate with the policy terms. It is fairly structured.",Deductible Inquiry,Deductible Amount & Adjustments,Positive
+"Deductible coverage?  Don't give me the runaround!  Is it covered for THIS or not?!  Straight answer!",Deductible Inquiry,Deductible Coverage & Discrepancies,Negative
+"This deductible coverage is dodgy!  Sounds like a bait-and-switch!  Explain this nonsense, pronto!",Deductible Inquiry,Deductible Coverage & Discrepancies,Negative
+"I must vehemently protest the ambiguous and inconsistent application of deductible coverage. This lack of clarity is unacceptable.",Deductible Inquiry,Deductible Coverage & Discrepancies,Negative
+"Excuse me, I am seeking clarification on the precise application of my deductible coverage in the context of my current claim.",Deductible Inquiry,Deductible Coverage & Discrepancies,Neutral
+"Deductible coverage query - just wanna understand how the deductible thing works with this claim, yeah?",Deductible Inquiry,Deductible Coverage & Discrepancies,Neutral
+"Deductible coverage - just a quick question, how does the deductible apply to my claim situation?",Deductible Inquiry,Deductible Coverage & Discrepancies,Neutral
+"Deductible coverage is clear as day, love it!  Properly explained and makes total sense, top marks!",Deductible Inquiry,Deductible Coverage & Discrepancies,Positive
+"Deductible coverage is bang on, mate!  Crystal clear explanation, thanks for makin' it easy!",Deductible Inquiry,Deductible Coverage & Discrepancies,Positive
+"I am most satisfied with the transparent and lucid explanation of my deductible coverage. The application is readily comprehensible.",Deductible Inquiry,Deductible Coverage & Discrepancies,Positive
+"Deductible waivers?  Yeah, right!  Like unicorns are real!  Gimme a break, just be honest!",Deductible Inquiry,Deductible Waivers & Discounts,Negative
+"Waivers? Discounts?  Don't even start with that BS.  They're non-existent, admit it!",Deductible Inquiry,Deductible Waivers & Discounts,Negative
+"I am profoundly skeptical regarding the availability of genuine deductible waivers or discounts. The prevalence of such offers appears dubious.",Deductible Inquiry,Deductible Waivers & Discounts,Negative
+"Excuse me, I would like to inquire about the potential availability of any deductible waivers or discounts applicable to my policy.",Deductible Inquiry,Deductible Waivers & Discounts,Neutral
+"Waiver chat?  Just wonderin' if there's any wiggle room on the deductible, waivers or discounts maybe?",Deductible Inquiry,Deductible Waivers & Discounts,Neutral
+"Deductible waivers – quick question, any chance of a waiver or discount, you reckon?",Deductible Inquiry,Deductible Waivers & Discounts,Neutral
+"Waiver sorted!  Mega thanks, that's a proper help, appreciate it big time!",Deductible Inquiry,Deductible Waivers & Discounts,Positive
+"Deductible waiver granted, lush!  Properly chuffed with that, thanks for the understanding!",Deductible Inquiry,Deductible Waivers & Discounts,Positive
+"I am profoundly grateful for the approval of a deductible waiver. This considerate gesture is most helpful during this juncture.",Deductible Inquiry,Deductible Waivers & Discounts,Positive
+"Waiver denial reason?  'Policy guidelines'?!  That's garbage!  Gimme a REAL reason, or I'm escalatin' this!",Deductible Inquiry,Denial Reason,Negative
+"Denial reason?  'Cause we felt like it'?!  That's your explanation?!  Unacceptable!  Justify this denial properly!",Deductible Inquiry,Denial Reason,Negative
+"I am utterly dissatisfied with the nebulous and unsubstantiated justification provided for the deductible waiver denial. A more concrete explanation is mandatory.",Deductible Inquiry,Denial Reason,Negative
+"Excuse me, I am requesting a more detailed explanation regarding the denial of my deductible waiver. The provided rationale is insufficiently specific.",Deductible Inquiry,Denial Reason,Neutral
+"Denial reason, waiver?  Just wanna understand why the waiver got the thumbs down, wanna know the specifics.",Deductible Inquiry,Denial Reason,Neutral
+"Waiver denial - quick one, what's the actual reason for the knock-back, need the deets.",Deductible Inquiry,Denial Reason,Neutral
+"Denial reason explained, fair enough!  Makes sense now, cheers for the proper explanation!",Deductible Inquiry,Denial Reason,Positive
+"Denial reason's clear, wicked!  Understood the policy stuff better now, thanks for the breakdown!",Deductible Inquiry,Denial Reason,Positive
+"I am satisfied with the comprehensive and transparent explanation furnished regarding the deductible waiver denial. The rationale is now clear.",Deductible Inquiry,Denial Reason,Positive
+"Oh, *fantastic*, another week and my claim transfer is still pending.  You guys are just *killing* it with the efficiency, really.",Contract Modification,Claim Transfer Requests,Negative
+"Wow, an email update?  Color me *shocked*.  Maybe by next month you'll actually process the transfer?",Contract Modification,Claim Transfer Requests,Negative
+"I just *adore* calling customer service repeatedly to ask for a claim transfer.  It's *such* a productive use of my time.",Contract Modification,Claim Transfer Requests,Negative
+"If I could just trouble you *again* to maybe, possibly, consider transferring my claim?  No pressure, just my life and car repairs on hold.",Contract Modification,Claim Transfer Requests,Negative
+"So thrilled to be jumping through hoops to transfer my claim.  It's like a fun obstacle course, but with real-life consequences!",Contract Modification,Claim Transfer Requests,Negative
+"Oh, *wonderful*, still no emails.  Guess I'll just keep magically knowing the status of my claim then.",Contract Modification,Email Update,Negative
+"Email updates?  Sure, I'll just hold my breath.  Maybe they'll arrive via carrier pigeon someday.",Contract Modification,Email Update,Negative
+"It's just *delightful* how I have to constantly chase you down for email confirmations.  Makes me feel so valued as a customer.",Contract Modification,Email Update,Negative
+"Updating my email address, a simple task for simple minds, right?  Clearly not here.",Contract Modification,Email Update,Negative
+"So excited to see if my email update actually *takes* this time.  It's always such a nail-biting adventure.",Contract Modification,Email Update,Negative
+"Claim processing?  *Speedy* as ever, I see.  Guess I'll just keep waiting... indefinitely?",Contract Modification,Claim Processing,Negative
+"Oh, *fantastic*, 'still processing'.  Groundbreaking update, truly.  Maybe check back next year?",Contract Modification,Claim Processing,Negative
+"The claim processing is going *swimmingly*, I'm sure.  Just love the suspense of not knowing anything for weeks.",Contract Modification,Claim Processing,Negative
+"Processing... such a *dynamic* word for something that's clearly going nowhere.",Contract Modification,Claim Processing,Negative
+"Just *thrilled* about how long this claim processing is taking.  Really highlights your commitment to... something.",Contract Modification,Claim Processing,Negative
+"RV claims assistance?  Oh, you have *that*?  Could've fooled me.",Contract Modification,RV Claims Assistance,Negative
+"Right, RV claim help.  Let's see if this time I get someone who knows an RV from a toaster oven.",Contract Modification,RV Claims Assistance,Negative
+"So excited to explain for the *fifth* time that it's an RV claim, not a car claim.  Really efficient system you've got there.",Contract Modification,RV Claims Assistance,Negative
+"RV claim assistance – assuming that's not just a fancy name for 'we have no clue about RVs'.",Contract Modification,RV Claims Assistance,Negative
+"Just *delighted* to be navigating the complex world of RV claims with... general car insurance reps.",Contract Modification,RV Claims Assistance,Negative
+"Contract transfer status?  'Pending', I presume?  *Shocking*.",Contract Transfer,Contract Transfer Status,Negative
+"Still 'processing' the contract transfer?  You guys are just *on fire* with these updates.",Contract Transfer,Contract Transfer Status,Negative
+"So thrilled to be in the dark about my contract transfer status.  Makes me feel so... informed.",Contract Transfer,Contract Transfer Status,Negative
+"Contract transfer update?  Let me guess, still 'pending review'?  *Mind-blowing* insight.",Contract Transfer,Contract Transfer Status,Negative
+"Just *loving* the suspense of waiting to see if this contract transfer will ever actually happen.",Contract Transfer,Contract Transfer Status,Negative
+"Windshield coverage, huh?  Bet there's a *tiny* asterisk and twenty exclusions, right?",Coverage Inquiry,Coverage,Negative
+"Liability coverage – oh *joy*, let's decipher more policy jargon.  This is *exactly* how I wanted to spend my day.",Coverage Inquiry,Coverage,Negative
+"Coverage for hail damage?  Sure, 'comprehensive', right up until you actually *need* it.",Coverage Inquiry,Coverage,Negative
+"Explaining my liability coverage?  Please, *enlighten* me with more insurance speak.  It's just *riveting*.",Coverage Inquiry,Coverage,Negative
+"Towing coverage?  Oh, *generous* of you.  Assuming I can actually *reach* someone when I'm stranded.",Coverage Inquiry,Coverage,Negative
+"Repair authorization?  *Speedy* approval, I'm sure.  Just sitting here twiddling my thumbs while my car decays.",Coverage Inquiry,Authorizations & Approvals,Negative
+"Authorization delays?  *Never*.  You guys are known for your lightning-fast approvals, aren't you?",Coverage Inquiry,Authorizations & Approvals,Negative
+"Authorization process is just *seamless*, isn't it?  Like wading through molasses uphill in January.",Coverage Inquiry,Authorizations & Approvals,Negative
+"So excited to wait an *eternity* for repair authorization.  It's the highlight of my week, truly.",Coverage Inquiry,Authorizations & Approvals,Negative
+"Authorization for diagnostics?  Let me guess, that'll be another *lightning-fast* process.",Coverage Inquiry,Authorizations & Approvals,Negative
+"Diagnostic tests coverage?  Oh, *surely* that's covered.  Unless there's a sneaky clause I missed?",Coverage Inquiry,Diagnostics,Negative
+"Diagnostics... because *obviously* my policy covers finding out what's wrong, right?  Right?",Coverage Inquiry,Diagnostics,Negative
+"Diagnostics, such a *luxury*.  Hope my 'comprehensive' policy stretches to cover basic problem-solving.",Coverage Inquiry,Diagnostics,Negative
+"Diagnostic coverage – fingers crossed it's not another 'surprise' exclusion in my *amazing* policy.",Coverage Inquiry,Diagnostics,Negative
+"Diagnostic costs covered?  *Wouldn't that be nice*?  Let me just brace myself for the 'no'.",Coverage Inquiry,Diagnostics,Negative
+"Payment due?  Oh, already?  Time *flies* when you're dealing with insurance companies.",Coverage Inquiry,Payment,Negative
+"Payment amount fluctuating *again*?  So *predictable*.  It's like a fun, unwelcome lottery.",Coverage Inquiry,Payment,Negative
+"Billing inconsistencies?  *Never* with you guys.  It's always so... 'consistent' in its inconsistency.",Coverage Inquiry,Payment,Negative
+"Payment options?  *Limited* as always, I bet.  Convenience isn't exactly your strong suit, is it?",Coverage Inquiry,Payment,Negative
+"Updating billing info – oh *joy*.  Another thrilling adventure in online forms and phone menus.",Coverage Inquiry,Payment,Negative
+"Claim status update?  Let me guess, 'still under review'?  *Groundbreaking*.",Coverage Inquiry,Claim Status,Negative
+"Claim status?  I'm *dying* to know if it's still languishing in the abyss of 'review'.",Coverage Inquiry,Claim Status,Negative
+"Claim status – prepare for a *thrilling* update of 'we're working on it'.  Edge of my seat!",Coverage Inquiry,Claim Status,Negative
+"Status of my claim... brace yourself for *another* non-update.  It's like a daily ritual now.",Coverage Inquiry,Claim Status,Negative
+"Just *anticipating* the detailed and informative claim status update I'm about to receive.  (Spoiler alert: sarcasm).",Coverage Inquiry,Claim Status,Negative
+"Claim updates?  Oh, *those*.  The things you *don't* send.",Coverage Inquiry,Updates,Negative
+"Proactive updates?  *Bless your heart*.  That's a good one.",Coverage Inquiry,Updates,Negative
+"Updates on my claim – *sure*, I'll just keep refreshing my inbox and hoping for a miracle.",Coverage Inquiry,Updates,Negative
+"Proactive communication?  *As if*.  I'm more likely to see a unicorn.",Coverage Inquiry,Updates,Negative
+"Regular updates... *in a perfect world*.  Back to reality, where I chase you for every crumb of info.",Coverage Inquiry,Updates,Negative
+"Customer service?  *World-class*, I'm sure.  If 'world-class' means 'utterly incompetent'.",Customer Feedback,Customer Feedback,Negative
+"Oh, your customer service is just *peachy*.  So helpful, so responsive, so... not.",Customer Feedback,Customer Feedback,Negative
+"Customer service experience?  *Five stars!*  ...If five stars is the lowest possible rating.",Customer Feedback,Customer Feedback,Negative
+"Providing feedback?  *What a novel idea*.  Doubt it'll actually go anywhere, but here goes.",Customer Feedback,Customer Feedback,Negative
+"Just *eagerly* awaiting the moment my customer feedback actually makes a difference.  Any day now...",Customer Feedback,Customer Feedback,Negative
+"Customer satisfaction survey?  Oh, *another* one?  Can't wait to pour my heart out into the void.",Customer Feedback,Customer Satisfaction Survey,Negative
+"Survey invitation?  *How thoughtful*.  Let me guess, nothing will actually change based on the feedback?",Customer Feedback,Customer Satisfaction Survey,Negative
+"Customer satisfaction survey – because *clearly* that's going to magically fix everything.",Customer Feedback,Customer Satisfaction Survey,Negative
+"Taking your survey?  *Sure*, why not add to the pile of ignored customer feedback?",Customer Feedback,Customer Satisfaction Survey,Negative
+"So thrilled to share my 'satisfaction' in your survey.  Prepare for some *glowing* reviews. (Spoiler alert: sarcasm again).",Customer Feedback,Customer Satisfaction Survey,Negative
+"Initiate a feedback survey myself?  *Because your channels are so effective already*.  Right.",Customer Feedback,Survey Initiation,Negative
+"Start a survey?  *Clearly* the only way to get my voice heard.  Because you're *so* responsive otherwise.",Customer Feedback,Survey Initiation,Negative
+"Initiating a survey – *clearly* necessary when regular feedback channels are just for show.",Customer Feedback,Survey Initiation,Negative
+"Requesting survey initiation – *so proactive* of me to have to do this myself.",Customer Feedback,Survey Initiation,Negative
+"Just *tickled pink* that I have to *initiate* a survey to get my complaints addressed.  Top-notch customer engagement, really.",Customer Feedback,Survey Initiation,Negative
+"Claim feedback survey?  Oh, *specialized*.  Bet it's just as generic and unhelpful as the rest.",Customer Feedback,Customer Feedback Survey,Negative
+"Claim-specific survey?  *Color me skeptical*.  Probably just a thinly veiled marketing ploy.",Customer Feedback,Customer Feedback Survey,Negative
+"Claim feedback survey – *finally*, something tailored.  Or is it just wishful thinking?",Customer Feedback,Customer Feedback Survey,Negative
+"Claim handling survey – *how innovative*.  Let's see if it actually leads to any improvements for once.",Customer Feedback,Customer Feedback Survey,Negative
+"Just *holding my breath* for this claim feedback survey to actually make a difference in your processes.",Customer Feedback,Customer Feedback Survey,Negative
+"Deductible amount?  Oh, *reasonable*.  Said no one, ever.",Deductible Inquiry,Deductible Amount & Adjustments,Negative
+"Deductible's 'calculated'?  *Magic* must be involved, 'cause it feels totally arbitrary.",Deductible Inquiry,Deductible Amount & Adjustments,Negative
+"My deductible amount – *just lovely*.  Really adds to the financial joy of car repairs.",Deductible Inquiry,Deductible Amount & Adjustments,Negative
+"Inquiring about my deductible amount – prepare for a number that will just *delight* me.",Deductible Inquiry,Deductible Amount & Adjustments,Negative
+"Deductible amount... let me guess, *astronomical*?  Just bracing myself here.",Deductible Inquiry,Deductible Amount & Adjustments,Negative
+"Deductible coverage?  *Transparent* as mud, I'm sure.",Deductible Inquiry,Deductible Coverage & Discrepancies,Negative
+"Deductible coverage discrepancies?  *Surprise, surprise*.  Insurance policies are always so straightforward, aren't they?",Deductible Inquiry,Deductible Coverage & Discrepancies,Negative
+"Deductible coverage on *this* claim?  Prepare for a *masterclass* in policy interpretation.",Deductible Inquiry,Deductible Coverage & Discrepancies,Negative
+"Clarifying deductible coverage – because *clearly* it's all crystal clear in the policy wording. (Spoiler: NOT).",Deductible Inquiry,Deductible Coverage & Discrepancies,Negative
+"Deductible coverage application – *surely* there's a logical, customer-friendly explanation for this.  Right?",Deductible Inquiry,Deductible Coverage & Discrepancies,Negative
+"Deductible waivers – oh *go on*, humor me.  Tell me about these mythical creatures.",Deductible Inquiry,Deductible Waivers & Discounts,Negative
+"Deductible waiver availability?  Let me guess, *technically* available, practically impossible to get.",Deductible Inquiry,Deductible Waivers & Discounts,Negative
+"Deductible discounts – *sign me up* for this fantasy!  (Back in reality, probably not).",Deductible Inquiry,Deductible Waivers & Discounts,Negative
+"Inquiring about deductible waivers – because *obviously* insurance companies just *love* handing out waivers.",Deductible Inquiry,Deductible Waivers & Discounts,Negative
+"Deductible waiver options – let's explore this *utopian* concept for a moment.",Deductible Inquiry,Deductible Waivers & Discounts,Negative
+"Deductible waiver denial reason?  'Policy'?  *Deeply enlightening*, thanks.",Deductible Inquiry,Denial Reason,Negative
+"Denial reason: 'unspecified policy guidelines'.  *Groundbreaking*.  So helpful.",Deductible Inquiry,Denial Reason,Negative
+"Deductible waiver denial explanation – prepare for a *vague* and utterly unhelpful justification.",Deductible Inquiry,Denial Reason,Negative
+"Seeking clarification on denial reasons – because *obviously* the first explanation was just *overflowing* with detail and clarity.",Deductible Inquiry,Denial Reason,Negative
+"Deductible waiver denial reason... let me guess, some *fantastically* transparent and customer-centric logic?",Deductible Inquiry,Denial Reason,Negative
+"Hey, just wanted to check in on transferring my claim, what's the next step on my end?",Contract Modification,Claim Transfer Requests,Neutral
+"Alright, so for claim transfers, is there like a form I gotta fill out or something?",Contract Modification,Claim Transfer Requests,Neutral
+"Morning! Just wanted to enquire about claim transfers.  How does one go about initiating that?",Contract Modification,Claim Transfer Requests,Neutral
+"Big up to the team for gettin' that claim transfer sorted! You guys are on it!",Contract Modification,Claim Transfer Requests,Positive
+"Cheers for the claim transfer, made everything way easier to deal with, appreciate it!",Contract Modification,Claim Transfer Requests,Positive
+"Just wanted to say thanks for the help with the claim transfer - smooth sailing, really appreciate it.",Contract Modification,Claim Transfer Requests,Positive
+"Just need to update my email address on the policy, what's the best way to do that?",Contract Modification,Email Update,Neutral
+"So, email address update, is that somethin' I can sort out online or do I need to call?",Contract Modification,Email Update,Neutral
+"Hello, I'd like to change my email address for policy notifications, if you could assist.",Contract Modification,Email Update,Neutral
+"Email's updated!  Easy peasy, thanks for the quick fix!",Contract Modification,Email Update,Positive
+"Proper chuffed, email address sorted in no time!  Cheers for the help!",Contract Modification,Email Update,Positive
+"Just a quick thank you for updating my email, all done and dusted in minutes, very efficient.",Contract Modification,Email Update,Positive
+"Claim processing update, just wondering if there's any news on how it's progressing?",Contract Modification,Claim Processing,Neutral
+"So, for claim processing, what's the typical timeframe looking like these days?",Contract Modification,Claim Processing,Neutral
+"Good afternoon, could I get an update on the claim processing stage, please?",Contract Modification,Claim Processing,Neutral
+"Claim's processed already?!  Wow, that's impressively quick, top job!",Contract Modification,Claim Processing,Positive
+"Stoked, claim processing wrapped up fast! Thanks a bunch for the speedy work!",Contract Modification,Claim Processing,Positive
+"Just wanted to say how impressed I am with the claim processing speed, exceptionally efficient service.",Contract Modification,Claim Processing,Positive
+"RV claims assistance -  need some help with a claim for my campervan, who's the best person to speak to?",Contract Modification,RV Claims Assistance,Neutral
+"Right, RV claim, is there a specialist department or somethin' that deals with those?",Contract Modification,RV Claims Assistance,Neutral
+"Excuse me, I have an RV insurance claim to file and would appreciate guidance from an RV specialist.",Contract Modification,RV Claims Assistance,Neutral
+"Massive thanks for puttin' me through to the RV claims team, they were brilliant, proper helpful!",Contract Modification,RV Claims Assistance,Positive
+"RV claims sorted, top banana!  Really knew their stuff, made it dead easy, cheers!",Contract Modification,RV Claims Assistance,Positive
+"Just wanted to thank you for connecting me to the RV claims expert, excellent service and very knowledgeable.",Contract Modification,RV Claims Assistance,Positive
+"Contract transfer status check - just seein' if there's any movement on that transfer I requested?",Contract Transfer,Contract Transfer Status,Neutral
+"So, contract transfer, how's that lookin'?  Any idea on when it might be finalized?",Contract Transfer,Contract Transfer Status,Neutral
+"Hello, I'm calling to inquire about the current status of my contract transfer application.",Contract Transfer,Contract Transfer Status,Neutral
+"Contract transfer is done, wicked!  Cheers for the speedy completion!",Contract Transfer,Contract Transfer Status,Positive
+"Buzzin', contract transfer went through smoothly!  Thanks for gettin' it sorted so quickly!",Contract Transfer,Contract Transfer Status,Positive
+"Just a quick note to say thank you for the efficient handling of the contract transfer, seamless process.",Contract Transfer,Contract Transfer Status,Positive
+"Coverage query - just wanted to double-check what the policy covers in case of theft?",Coverage Inquiry,Coverage,Neutral
+"Right, coverage question, what's the deal with policy cover for accidental damage, is that included?",Coverage Inquiry,Coverage,Neutral
+"Good morning, I'd like to understand the extent of my coverage, particularly regarding flood damage.",Coverage Inquiry,Coverage,Neutral
+"Coverage is brilliant, feel really secure knowing I'm properly covered!",Coverage Inquiry,Coverage,Positive
+"Proper impressed with the coverage options, feels like I'm well protected, cheers for the great policy!",Coverage Inquiry,Coverage,Positive
+"Just wanted to express my satisfaction with the policy coverage - really comprehensive and reassuring.",Coverage Inquiry,Coverage,Positive
+"Repair authorization - just checkin' on the status of the authorization for my car repairs.",Coverage Inquiry,Authorizations & Approvals,Neutral
+"Authorization for repairs, how's that lookin'?  Any idea when I might get the go-ahead?",Coverage Inquiry,Authorizations & Approvals,Neutral
+"Hello, I'm calling to follow up on my repair authorization request, please.",Coverage Inquiry,Authorizations & Approvals,Neutral
+"Authorization approved!  Ace, thanks for the fast turnaround, that's a big help!",Coverage Inquiry,Authorizations & Approvals,Positive
+"Buzzin', authorization sorted super quick!  Really appreciate the speedy work!",Coverage Inquiry,Authorizations & Approvals,Positive
+"Just a quick thank you for the prompt repair authorization, exceptionally fast and efficient.",Coverage Inquiry,Authorizations & Approvals,Positive
+"Diagnostics coverage -  just wanted to clarify if diagnostic tests are included under my policy.",Coverage Inquiry,Diagnostics,Neutral
+"So, diagnostics, are those generally covered by the insurance or is that extra?",Coverage Inquiry,Diagnostics,Neutral
+"Good day, I am calling to inquire about policy coverage for vehicle diagnostic procedures.",Coverage Inquiry,Diagnostics,Neutral
+"Diagnostics are covered, brilliant!  That's a proper bonus, good to know!",Coverage Inquiry,Diagnostics,Positive
+"Stoked, diagnostics are included!  Really good feature to have, thanks!",Coverage Inquiry,Diagnostics,Positive
+"Just wanted to say how pleased I am that diagnostics are part of the coverage, very practical and helpful.",Coverage Inquiry,Diagnostics,Positive
+"Payment due date and amount - could you just remind me when my next payment is and how much it'll be?",Coverage Inquiry,Payment,Neutral
+"Right, payment info, when's the next one due and what's the damage?",Coverage Inquiry,Payment,Neutral
+"Hello, I'm calling to confirm my next payment due date and the amount payable, please.",Coverage Inquiry,Payment,Neutral
+"Payment's all sorted, easy as pie!  Love the simple payment system, top marks!",Coverage Inquiry,Payment,Positive
+"Buzzin', payment process is dead straightforward!  Cheers for makin' it so easy!",Coverage Inquiry,Payment,Positive
+"Just wanted to say how convenient your payment system is, really simple and efficient.",Coverage Inquiry,Payment,Positive
+"Claim status request -  just wonderin' if there's any update on my claim, please?",Coverage Inquiry,Claim Status,Neutral
+"So, claim status, any news on how things are progressing with my claim?",Coverage Inquiry,Claim Status,Neutral
+"Good afternoon, I'm calling to get a status update on my insurance claim.",Coverage Inquiry,Claim Status,Neutral
+"Claim approved, yes!  Fantastic news, cheers for lettin' me know!",Coverage Inquiry,Claim Status,Positive
+"Stoked, claim's been approved!  Really happy with that, thanks for the quick resolution!",Coverage Inquiry,Claim Status,Positive
+"Just wanted to express my delight at the claim approval, excellent outcome and very speedy.",Coverage Inquiry,Claim Status,Positive
+"Claim updates request - could you send over the latest updates on my claim when you get a chance?",Coverage Inquiry,Updates,Neutral
+"Right, claim updates, just wonderin' if there's any new info on the claim progress?",Coverage Inquiry,Updates,Neutral
+"Hello, I am calling to request any available updates on my ongoing claim, please.",Coverage Inquiry,Updates,Neutral
+"Updates are comin' through regularly, brilliant!  Keeps me well informed, appreciate it!",Coverage Inquiry,Updates,Positive
+"Buzzin', gettin' regular claim updates, top stuff! Cheers for keepin' me in the loop!",Coverage Inquiry,Updates,Positive
+"Just wanted to say thank you for the consistent claim updates, really helpful to stay informed.",Coverage Inquiry,Updates,Positive
+"Customer feedback - just wanted to give some general feedback on the customer service experience.",Customer Feedback,Customer Feedback,Neutral
+"So, feedback on customer service, just wanna share a few thoughts on my experience.",Customer Feedback,Customer Feedback,Neutral
+"Good day, I'm calling to provide some feedback regarding my recent customer service interaction.",Customer Feedback,Customer Feedback,Neutral
+"Customer service was spot on, really helpful and friendly, top marks!",Customer Feedback,Customer Feedback,Positive
+"Proper chuffed with the customer service, they sorted me right out, cheers to the team!",Customer Feedback,Customer Feedback,Positive
+"Just wanted to say how impressed I was with the customer service, exceptionally helpful and professional.",Customer Feedback,Customer Feedback,Positive
+"Customer satisfaction survey - just wonderin' if there's a survey I can take to give some feedback?",Customer Feedback,Customer Satisfaction Survey,Neutral
+"Right, customer satisfaction survey, is there somethin' like that I could fill out?",Customer Feedback,Customer Satisfaction Survey,Neutral
+"Hello, I'm calling to inquire about a customer satisfaction survey, I'd like to provide some feedback.",Customer Feedback,Customer Satisfaction Survey,Neutral
+"Customer satisfaction survey?  Yeah, happy to fill that out, top marks for askin' for feedback!",Customer Feedback,Customer Satisfaction Survey,Positive
+"Buzzin', customer satisfaction survey available, great way to get feedback, cheers!",Customer Feedback,Customer Satisfaction Survey,Positive
+"Just wanted to say how impressed I am that you offer a customer satisfaction survey, shows you care about service.",Customer Feedback,Customer Satisfaction Survey,Positive
+"Survey initiation -  how does one go about startin' a customer feedback survey for my account?",Customer Feedback,Survey Initiation,Neutral
+"Right, survey initiation, what's the process for kickin' off a customer feedback survey?",Customer Feedback,Survey Initiation,Neutral
+"Hello, I'm calling to inquire about initiating a formal customer feedback survey for my service experience.",Customer Feedback,Survey Initiation,Neutral
+"Survey initiation sorted, wicked!  Cheers for gettin' that set up for me!",Customer Feedback,Survey Initiation,Positive
+"Proper chuffed, survey initiation all sorted and ready to go! Thanks for the help!",Customer Feedback,Survey Initiation,Positive
+"Just wanted to say thank you for assistin' with the survey initiation, really appreciate you makin' it happen.",Customer Feedback,Survey Initiation,Positive
+"Claim feedback survey - just wonderin' if there's a specific survey for feedback on claim handling?",Customer Feedback,Customer Feedback Survey,Neutral
+"Right, claim feedback survey, is there a survey that's just about the claims process?",Customer Feedback,Customer Feedback Survey,Neutral
+"Good day, I'm calling to inquire if you have a customer feedback survey specifically for claim handling.",Customer Feedback,Customer Feedback Survey,Neutral
+"Claim survey is spot on!  Properly detailed for claim feedback, cheers for that!",Customer Feedback,Customer Feedback Survey,Positive
+"Buzzin', claim survey is excellent and focused on claims! Top stuff for the detailed feedback option!",Customer Feedback,Customer Feedback Survey,Positive
+"Just wanted to say how impressed I am with the claim-specific customer feedback survey, very thorough and useful.",Customer Feedback,Customer Feedback Survey,Positive
+"Deductible amount inquiry - just need a reminder of what my current deductible amount is, please.",Deductible Inquiry,Deductible Amount & Adjustments,Neutral
+"Right, deductible amount, just want to quickly confirm what that figure is, yeah?",Deductible Inquiry,Deductible Amount & Adjustments,Neutral
+"Hello, I'm calling to verify my current deductible amount, if you could please provide that information.",Deductible Inquiry,Deductible Amount & Adjustments,Neutral
+"Deductible amount's spot on, really reasonable and fits my budget, cheers!",Deductible Inquiry,Deductible Amount & Adjustments,Positive
+"Proper chuffed with the deductible amount, fair and affordable, thanks for a good deal!",Deductible Inquiry,Deductible Amount & Adjustments,Positive
+"Just wanted to say how satisfied I am with my deductible amount, very reasonable and well-structured.",Deductible Inquiry,Deductible Amount & Adjustments,Positive
+"Deductible coverage clarification - just want to understand how the deductible works for this type of claim.",Deductible Inquiry,Deductible Coverage & Discrepancies,Neutral
+"Right, deductible coverage, how does the deductible apply in this specific claim scenario?",Deductible Inquiry,Deductible Coverage & Discrepancies,Neutral
+"Good day, I'm calling to clarify deductible coverage in relation to my current claim circumstance.",Deductible Inquiry,Deductible Coverage & Discrepancies,Neutral
+"Deductible coverage is crystal clear now, cheers for explainin' it all so well!",Deductible Inquiry,Deductible Coverage & Discrepancies,Positive
+"Buzzin', deductible coverage all makes sense now, thanks for the straightforward explanation!",Deductible Inquiry,Deductible Coverage & Discrepancies,Positive
+"Just wanted to say how much I appreciate the clear explanation of deductible coverage, very transparent and easy to understand.",Deductible Inquiry,Deductible Coverage & Discrepancies,Positive
+"Deductible waiver inquiry - just wondering if there are any deductible waivers I might be eligible for?",Deductible Inquiry,Deductible Waivers & Discounts,Neutral
+"Right, deductible waivers, wanna check if there are any waiver options available for my policy.",Deductible Inquiry,Deductible Waivers & Discounts,Neutral
+"Hello, I'm calling to inquire about potential deductible waivers or discounts applicable to my situation.",Deductible Inquiry,Deductible Waivers & Discounts,Neutral
+"Deductible waiver granted, wicked!  That's a massive help, cheers for the understanding!",Deductible Inquiry,Deductible Waivers & Discounts,Positive
+"Proper chuffed, got a deductible waiver sorted! Really appreciate the support during this time!",Deductible Inquiry,Deductible Waivers & Discounts,Positive
+"Just wanted to say thank you for approving the deductible waiver, it's a very kind and helpful gesture.",Deductible Inquiry,Deductible Waivers & Discounts,Positive
+"Deductible denial reason - just wanna understand why my deductible waiver request was turned down.",Deductible Inquiry,Denial Reason,Neutral
+"Right, waiver denial, wanna know the specific reason for why the deductible waiver was refused.",Deductible Inquiry,Denial Reason,Neutral
+"Good afternoon, I am calling to seek clarification on the reasons for the deductible waiver denial.",Deductible Inquiry,Denial Reason,Neutral
+"Denial reason is clear now, cheers for the detailed explanation, makes sense!",Deductible Inquiry,Denial Reason,Positive
+"Buzzin', denial reason is well explained and understood! Thanks for the clear justification!",Deductible Inquiry,Denial Reason,Positive
+"Just wanted to say thank you for the detailed explanation of the denial, very helpful to understand the decision.",Deductible Inquiry,Denial Reason,Positive
